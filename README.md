@@ -31,7 +31,7 @@ The match will start with a 15-second autonomous period followed by a driver con
 
  ## Scoring
 
-|Scoring Objective| Points Rewarded|
+|Scoring Objective| Points Rewarded |
 |:---: | :--: |
 |Triballs Under Goal| 5 Points|
 |Triballs In Alliance Zone| 2 Points|
@@ -43,5 +43,29 @@ The match will start with a 15-second autonomous period followed by a driver con
 In Over-Under there are 5 unique field elements consisting of the Alliance Goals, Match Loading Bars, Elevation Structures, Middle Bar, and Triballs. 
 
 ### Alliance Goals
-The Alliance Goals can be found on opposite sides of the field       They can be found in two colors, red and blue, to designate which alliance scores in each Goal.
-![unnamed](https://github.com/9623D-Double-Vision/DoubleVisionNB/assets/102620185/5dde571f-24c2-463d-bae9-0ff477eda04c)
+The Alliance Goals can be found on opposite sides of the field and sit on bars attached to the outer walls of the perimeter. There is a net that connects to the front goal support and rests on the back perimeter, creating an angle. The goals can be found in two colors, red and blue, to designate which alliance scores in each Goal. 
+![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/7.png) 
+
+Each Alliance Goal is 47.13" wide, 23.08" long, and 5.78" tall. The front of the net is raised to 5.78" and the back of the net sits at 
+11.5", creating a 14.27° angle. 
+
+The Goal refers specifically to the three-dimensional volume bounded by a vertical projection of the outermost PVC pipes onto the field and below the surface of the net.
+![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/Goal-Dimensions.png) 
+
+### Match Loading Bars
+There is a Match Loading Bar in each of the four courners of the field specified by Allince Color. 
+
+The Match Loading Bars are 30" in length and 2.38" in diameter. 
+![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/11.png)
+
+There is a vertical plane that starts at the front of the Match Loading Bar. This plane is used to dignify whether or not a robot is able to matchload. A robot has to be crossing the plane of the matchload zone in order for matchloading into the robot to occur.
+
+### Elevation Structures
+There are 2 Elevation Structures found at both ends of the middle bar and attatches to the perimeter of the field. The structures are 
+
+The Elevation Bar is 11.63" off the ground as well as 21.89" in length. The Elevation Pole is 30.23" tall. Both the Elevation Bar and Pole are 2.38" in diameter.
+![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/10.png) 
+### Middle Bar
+
+
+### Triballs
