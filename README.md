@@ -10,11 +10,11 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 ![Alt Text](url)
  17 years old - 12 Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in the VEX Robotics Competition
 
-### **Lauren Wilder**
+### **Whilden Wood**
 ![Alt Text](url)
- 17 years old - 12th Grade - **Main Notebook Loggist**, **Elimination Pair Scouter**, **Budget Manager** - Lauren has 2 years of experience in the VEX Robotics Competition
+ 14 years old - 9th Grade - **Main Notebook Loggist**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
 
-All 3 of our members contribute to the drive team during competition. Elliott and Lauren do not attend West Ashley High School, however they take part in the robotics program.
+All 3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
 ## Game Explanation
 
@@ -97,6 +97,11 @@ On the last day of worlds, the 2023-2024 VRC Competition was revealed. Elliott a
 FRC team 2910's robot had a standard tank drivetrain with an arm, as well as an intake that uses rubber rollers similar to VRC Flex Wheels. The function of the arm and intake was meant to grab the scoring objects off the ground and extend the arm out to place them on a platform. This is very similar to how the VEX Over-Under game is played. 
 
 TLDR: Elliott started bainrstorming ideas for Over-Under mechanisms
+
+### 4/30/23 - Initial Design
+
+After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included; a 6 motor drivetrain with a gear ratio of 36:60,catapult which included a slip gear mechanism made from highstrength axles and rubber bands, and an intake utilizing chain drives and flexwheels in order to grip onto the triballs.
+
 
 
 
