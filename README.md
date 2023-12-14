@@ -3,15 +3,15 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 ## Team Bio
 
 ### **Elliott McAninch**
-![Alt Text](url)
+
  18 years old - 12th Grade - **Builder**, **Driver**, and **CAD/3D Designer** - Elliott has 9 years of experience in robotics, 6 of those competing in the VEX Robotics Competition
 
 ### **Rhett Blanton**
-![Alt Text](url)
+
  17 years old - 12 Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in the VEX Robotics Competition
 
 ### **Whilden Wood**
-![Alt Text](url)
+
  14 years old - 9th Grade - **Main Notebook Loggist**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
 
 All 3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
