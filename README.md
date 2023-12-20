@@ -102,6 +102,56 @@ TLDR: Elliott started bainrstorming ideas for Over-Under mechanisms
 
 After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included; a 6 motor drivetrain with a gear ratio of 36:60,catapult which included a slip gear mechanism made from highstrength axles and rubber bands, and an intake utilizing chain drives and flexwheels in order to grip onto the triballs.
 
+### 5/1/23
+Elliott researched a way to transport and hold the triballs, he found a claw that uses a chain and sprocket mechanism thats connected to shafts with flex wheels on them to be able to intake the triballs  faster aswell as have a better grip so the robot can hold the triballs more effectively when at highspeeds or taking sharp turns that when using a normal claw would cause the triball to fling escape the contorl of the robot. 
+
+### 5/2/23 
+Elliott tried to figure out different possitons and places to place the claw on the robot and allow it to adjust its height but still have it be stable, eventually he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attatched on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio of 1:7 using a 12T gear and 84T gear. 
+![Alt text](C:\Users\woowhi5411\Downloads\IMG_8958.JPG)
+### 5/4/23
+
+### 5/8/23 
+
+### 5/14/23 
+
+### 5/24/23
+
+### 5/30/23
+
+### 6/1/23 
+
+### 2 month break for summer 
+
+### 9/8/23
+
+### 9/12/23
+
+### 9/14/23
+
+### 9/16/23
+
+### 9/18/23
+
+### 9/21/23
+
+### 9/22/23
+
+### 9/25/23
+
+### 9/27/23
+
+### 9/29/23
+
+### 10/6/23
+
+### 10/26/23
+
+### 10/31/23
+
+### 11/2/23
+
+### 11/16/23
+
 
 
 
