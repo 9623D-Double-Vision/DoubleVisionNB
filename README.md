@@ -107,9 +107,11 @@ Elliott researched a way to transport and hold the triballs, he found a claw tha
 
 ### 5/2/23 
 Elliott tried to figure out different possitons and places to place the claw on the robot and allow it to adjust its height but still have it be stable, eventually he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attatched on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio of 1:7 using a 12T gear and 84T gear. 
-![Alt text](C:\Users\woowhi5411\Downloads\IMG_8958.JPG)
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG">
 ### 5/4/23
+Elliott started cadding a new drive train which includes lifted wheels due to the old drive train was unable to traverse the middle bar so with the added height it allows the robot to access the other side of the field without having to go through the neutral zone. saving time during the match. 
 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG">
 ### 5/8/23 
 
 ### 5/14/23 
