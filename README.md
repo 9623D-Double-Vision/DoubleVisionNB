@@ -112,6 +112,7 @@ Elliott tried to figure out different possitons and places to place the claw on 
 Elliott started cadding a new drive train which includes lifted wheels due to the old drive train was unable to traverse the middle bar so with the added height it allows the robot to access the other side of the field without having to go through the neutral zone. saving time during the match. 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG">
+
 ### 5/8/23 
 
 ### 5/14/23 
