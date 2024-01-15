@@ -163,6 +163,14 @@ Elliott started cadding a new drive train which includes lifted wheels due to th
 
 
 
+### 12/12/23
+Goals for today 
+
+* ~finish CAD for new robot with catapult instead of flywheel~
+
+* finish programming for wings and pneumatics
+
+* finish CAD 
 
 
 
