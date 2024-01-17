@@ -202,23 +202,23 @@ Goals for today:
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/2nd%20game%20JL%20mann.PNG">
 
 #### Third match we played in qualification match Q38 on the blue alliance and went against 85986A and 40994F whilst being allied with 1660A and we lost that match 52-49 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG">
 
 #### fourth match we played in qualification match Q53 on the red alliance and went against 98791C and 49631B whilst being allied with 3796B and won that match 175-5 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG">
 
 #### Fifth match we played in qualification match Q64 on the red alliance and went against 3796J and 9880B whilst being allied with 97625E and lost that match 58-72 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/5th%20game%20jl%20man.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/5th%20game%20jl%20man.PNG">
 
 #### Sixth match we played in qualification match Q72 on the red alliance and went against 60708A and 86400T whilst being allied with 49631 and lost that match 67-77 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG">
 
 #### At the end of Qualification matches we finsihed 3-3 and placed 32nd in rankings with 6 WP and an OPR of 43.4 and DPR of -4.4 
 
 ## Knockout Round Alliance Selections 
 We got selected by team 9623S and we played in R16 6-1 vs 9880B and 9880A, we ended up losing 93-80
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
 
 ### 1/11/23
 
@@ -231,10 +231,18 @@ After the dissapointing performance of the catapult at the J.L Mann competition 
 ### 1/16/23
 
 Whilden and Rhett practiced match loading 
-Rhett and Elliott tested different Joystick curve coefficients and eventually landed on a value of 5 after testing the values of 7,9, and 15 
+Rhett and Elliott tested different Joystick curve coefficients testing the values of 7,9, and 5. Eventually landing on the coefficient of 5 
 
-#### Joy stick value of 7
+#### Graph of Joystick Curve Coefficient value 7 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Joystick%20Curves%20value%207.PNG">
 
+#### Graph of Joystick Curve Coefficient value 9
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Joystick%20Curves%20value%209.PNG">
+
+#### Graph of Joystick Curve Coefficient value 5
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Joystick%20Curves%20value%205.PNG">
+
+We were able to complete a skills match load in BLANK leaving us with BLANK amount of time for the driving section
 Attendance: 
 - [x] Elliott
 - [x] Rhett
