@@ -111,6 +111,8 @@ Elliott tried to figure out different possitons and places to place the claw on 
 ### 5/4/23
 Elliott started cadding a new drive train which includes lifted wheels due to the old drive train was unable to traverse the middle bar so with the added height it allows the robot to access the other side of the field without having to go through the neutral zone. saving time during the match. 
 
+### 5/8/23 
+Elliott modelled the catapult more, aswell as some arm bracing for the catapult for support 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9058.JPG">
@@ -119,7 +121,6 @@ Elliott started cadding a new drive train which includes lifted wheels due to th
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9061.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG">
 
-### 5/8/23 
 
 ### 5/14/23 
 
@@ -161,8 +162,6 @@ Elliott started cadding a new drive train which includes lifted wheels due to th
 
 ### 11/16/23
 
-
-
 ### 12/12/23
 Goals for today 
 
@@ -170,16 +169,73 @@ Goals for today
 
 * finish programming for wings and pneumatics
 
-* finish CAD 
-
-
-
-
 ### 11/27/23 - 
 Rhett tried to fix seg fault issues in code as well as learning how to program individually addressable neopixels
 Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot’s CAD file in inventor, to fit the specifications of our robot. The 3d face image was imported into a laser cutter which cut the polycarbonate into the right shape. After the laser cutter finished cutting the wings we were able to attach them successfully as well as test them.
 
+### 12/13/23
+Rhett 3D printed cutout guides to turn a 3in flex wheel into a 2.75in.
+Elliott attatched the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia and speed aswell as momentum.
+
+### 12/14/23
+After testing the new flywheel Elliott decided it was to big and lost too much momentum after every triball was placed and decidd to opt out of using a flywheel and detatched it from the robot.He reattatched the wings and boxed them so they wont bend when hitting other robots, the nets, or when pushing triballs.
+
+### 12/21/23
++ finished CAD for new robot with catapult instead of flywheel
++ started coding for new wings and pneumatics 
+
+
+
+
+
+### 1/4/24
+Goals for today:
+tune PADs
+finish wiring new robot 
+
+### 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
+ 
+#### First match we played in qualification match Q7 on the blue alliance and went against 86400H and 77240G while being allied with 9880D and won that match 77-25 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/game%201%20jl%20man.PNG">
+
+#### Second match we played in qualification match Q26 on the red alliance and went aggainst 60708B and 9623W whilst being allied with 9880C and won that match 51-41 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/2nd%20game%20JL%20mann.PNG">
+
+#### Third match we played in qualification match Q38 on the blue alliance and went against 85986A and 40994F whilst being allied with 1660A and we lost that match 52-49 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG>
+
+#### fourth match we played in qualification match Q53 on the red alliance and went against 98791C and 49631B whilst being allied with 3796B and won that match 175-5 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG>
+
+#### Fifth match we played in qualification match Q64 on the red alliance and went against 3796J and 9880B whilst being allied with 97625E and lost that match 58-72 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/5th%20game%20jl%20man.PNG>
+
+#### Sixth match we played in qualification match Q72 on the red alliance and went against 60708A and 86400T whilst being allied with 49631 and lost that match 67-77 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG>
+
+#### At the end of Qualification matches we finsihed 3-3 and placed 32nd in rankings with 6 WP and an OPR of 43.4 and DPR of -4.4 
+
+## Knockout Round Alliance Selections 
+We got selected by team 9623S and we played in R16 6-1 vs 9880B and 9880A, we ended up losing 93-80
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG>
+
+### 1/11/23
+
+After the dissapointing performance of the catapult at the J.L Mann competition we decided to remove it and switch to a slip gear kicker. We also decided to add guides using lazer cut polycarbonate for the intake aswell as for the wheels so we can get over the middle bar utilizing our robots center of gravity by brining it over the bar before the wheels make contact generating a smoother more efficient crossover
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2.jpeg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_1.jpeg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_2.jpeg">
+
+### 1/16/23
+
+Whilden and Rhett practiced match loading 
+Rhett and Elliott tested different Joystick curve coefficients and eventually landed on a value of 5 after testing the values of 7,9, and 15 
+
+#### Joy stick value of 7
+
 Attendance: 
 - [x] Elliott
 - [x] Rhett
-- [x] Lauren
+- [x] Whilden 
