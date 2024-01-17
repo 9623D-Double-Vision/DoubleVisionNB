@@ -190,8 +190,8 @@ After testing the new flywheel Elliott decided it was to big and lost too much m
 
 ### 1/4/24
 Goals for today:
-tune PADs
-finish wiring new robot 
++ ~tune PADs~
++ ~finish wiring new robot ~
 
 ### 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
