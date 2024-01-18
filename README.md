@@ -187,8 +187,12 @@ We finished first with 13 WPs 44 APs and 378 SPs and a final record of 6-0. We d
 #### Semifinals 1-1 
 we played on the red alliance and went against teams 93400A and 9623S and we won that match 101-48
 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Semifinals.PNG">
+
 #### Finals 1-1 
 We played on the red alliance and went against teams 31055B and 9623W and we won that match 160-62 meaning we qualified for State Championships and finished 8-0 
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
 
 ### 11/12/23
