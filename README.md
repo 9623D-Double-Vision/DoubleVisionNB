@@ -177,7 +177,23 @@ Elliott modelled the catapult more, aswell as some arm bracing for the catapult 
 #### Fifth match we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B whilst being allied with 31055B, we won that match 113 to 58
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fifth%20match.PNG">
 
+#### Sixth match we played in qualification match 20 on the red alliance, and went against teams 40976B and 31055A whilst being allied with 9623W
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufor%20sixth%20match.PNG"> 
+
+#### Alliance Selections 
+We finished first with 13 WPs 44 APs and 378 SPs and a final record of 6-0. We decided to selced 52455A Hyper resolution who finished with 8 WPs 24 APs 249 SPs and a final record of 4-2 but placing first in the skills competion.
+
+#### Semifinals 1-1 
+we played on the red alliance and went against teams 93400A and 9623S and we won that match 101-48
+
+#### Finals 1-1 
+We played on the red alliance and went against teams 31055B and 9623W and we won that match 160-62 meaning we qualified for State Championships and finished 8-0 
+
+
 ### 11/12/23
+
+
 
 ### 12/12/23
 Goals for today 
