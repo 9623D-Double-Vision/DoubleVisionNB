@@ -160,6 +160,16 @@ Elliott modelled the catapult more, aswell as some arm bracing for the catapult 
 
 ### 11/2/23
 
+### 11/4/23 (Eagle Qualifier Competition in Beaufort)\
+
+#### First match we played in qualification match 2 on the blue alliance and went against 52455C and 93400A whilst being paired with 31055B. We won that match 129-83
+
+#### Second match we played in qualification match 6 on the red alliance, and went against 93400A and 40976A whilst being allied with 93400B. We won that match 127-93
+
+#### Third match we played in qualification match 9 on the blue alliance, and went against 9623T and 9623S whilst being allied with 3289A. Even though we lost 53-45 we still got WP because 9623T DQd 
+
+#### Fourth match we played in qualification match 12 on the blue alliance, and went against 52455B and 40976A whilst being allied with 3289A 
+
 ### 11/16/23
 
 ### 12/12/23
