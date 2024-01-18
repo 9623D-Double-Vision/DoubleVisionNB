@@ -166,6 +166,7 @@ Elliott modelled the catapult more, aswell as some arm bracing for the catapult 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20first%20match.PNG">
 
 #### Second match we played in qualification match 6 on the red alliance, and went against 93400A and 40976A whilst being allied with 93400B. We won that match 127-93
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20second%20match.PNG">
 
 #### Third match we played in qualification match 9 on the blue alliance, and went against 9623T and 9623S whilst being allied with 3289A. Even though we lost 53-45 we still got WP because 9623T DQd 
 
