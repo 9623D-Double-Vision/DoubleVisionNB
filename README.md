@@ -160,7 +160,7 @@ Elliott modelled the catapult more, aswell as some arm bracing for the catapult 
 
 ### 11/2/23
 
-### 11/4/23 (Eagle Qualifier Competition in Beaufort)\
+### 11/4/23 (Eagle Qualifier Competition in Beaufort)
 
 #### First match we played in qualification match 2 on the blue alliance and went against 52455C and 93400A whilst being paired with 31055B. We won that match 129-83
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20first%20match.PNG">
