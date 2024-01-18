@@ -329,14 +329,14 @@ Rhett and Elliott tested different Joystick curve coefficients testing the value
 We were able to complete a skills match load in BLANK leaving us with BLANK amount of time for the driving section
 
 ### 1/17/23 
-Today our goal is to work on the polycarbonate guides and guards for our robot. Elliott finished cutting out the revised polycarbonate wing guards aswell as the scoop that will go on the front of our robot 
+Today our goal is to work on the polycarbonate guides and guards for our robot. Elliott finished cutting out the revised polycarbonate wing guards aswell as the wedge that will go on the front of our robot 
 
-The scoop had to be bended because Elliott's idea for the scoop was for it to do 3 things 
+The scoop had to be bended because Elliott's idea for the plow was for it to do 3 things 
 + Act as a guard for the robot
-+ Act as a scoop for the triballs to get over the middle bar easier
-+ Act as a defensive mechanism to temporarily prop up other peoples robots so they become immobile for a couple of seconds without getting DQed for entaglement
++ Act as a plow for the triballs to get over the middle bar easier
++ Act as a defensive wedge to temporarily prop up other peoples robots so they become immobile for a couple of seconds without getting DQed for entaglement
 
-Polycarbonate has interesting thermal properties, because it's a plastic it doesnt have a set melting temperature. Instead it has a Vicat Softening point at around 145-150 degrees celcius (293-302 Farenheight). Because we just want to bend the polycarbonate we have to be careful to reach 130 degrees celcius (266 Farenheight) and not go about because this could cause it to warp and bend in ways that are undesirable  its working temperature and Vicat temperature. We accomplished 
+Polycarbonate has interesting thermal properties, because it's a plastic it doesnt have a set melting temperature. Instead it has a Vicat Softening point at around 145-150 degrees celcius (293-302 Farenheight). Because we just want to bend the polycarbonate we have to be careful to reach exactly 130 degrees celcius (266 Farenheight) and not go over because this could cause it to warp and bend in ways that are undesirable. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position 
 
 
 Attendance:
