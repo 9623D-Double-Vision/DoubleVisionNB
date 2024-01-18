@@ -199,6 +199,47 @@ We played on the red alliance and went against teams 31055B and 9623W and we won
 
 
 
+
+
+### 11/27/23 - 
+Rhett tried to fix seg fault issues in code as well as learning how to program individually addressable neopixels
+Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot’s CAD file in inventor, to fit the specifications of our robot. The 3d face image was imported into a laser cutter which cut the polycarbonate into the right shape. After the laser cutter finished cutting the wings we were able to attach them successfully as well as test them.
+
+### 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
+
+#### Q1
+ First match we played in qualification match 1 against teams 29485B and 3796K whilst being allied with 29073A. We tied that match 91-91. 
+
+#### Q10 
+Second match we played in qualification match 10 against teams 44252R and 9447G whilst being allied with 1660A. We won that match 67-66.
+
+#### Q23 
+Third match we played in qualification match 23 against teams 3796H and 9447D whilst being allied with 31617Z. We won that match 115-96.
+
+#### Q28 
+ Fourth match we played in qualification match 28 against teams 99322A and 9447P whilst being allied with 9447V. We won that match 117-88
+
+#### Q40 
+Fifth match we played in qualification match 40 against teams 1660B and 26468A whilst being allied with 26468B. We won that match 116-74
+
+#### Q52
+ Sixth match we played in qualification match 52 against teams 9623T and 8686M whilst being paired with 3796G. We won that match 125-88 
+
+#### We finished 5th in qualifiers with 11 WPs, 16 APs, 503 SPs, and a final record of 5-0-1 
+
+#### (Alliance Selections) We were selected by team 3796K (Roomba) who finisehd 3rd with a record of 5-0-1 and placed 5th in skills 
+
+#### R16 7-1 
+We played in round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29 so we qualified for the quarterfinals 
+
+#### QF 4-1
+We played in quarter finals match 4 against teams 26468C and 99322A. We won that match 107-48 meaning we qualified for the semifinals.
+
+#### SF 2-1 
+We played in semifinals match 2 against teams 44252A and 9447G. We lost that match 138-63.
+ 
+
+
 ### 12/12/23
 Goals for today 
 
@@ -206,10 +247,7 @@ Goals for today
 
 * finish programming for wings and pneumatics
 
-### 11/27/23 - 
-Rhett tried to fix seg fault issues in code as well as learning how to program individually addressable neopixels
-Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot’s CAD file in inventor, to fit the specifications of our robot. The 3d face image was imported into a laser cutter which cut the polycarbonate into the right shape. After the laser cutter finished cutting the wings we were able to attach them successfully as well as test them.
-
+  
 ### 12/13/23
 Rhett 3D printed cutout guides to turn a 3in flex wheel into a 2.75in.
 Elliott attatched the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia and speed aswell as momentum.
@@ -228,7 +266,7 @@ After testing the new flywheel Elliott decided it was to big and lost too much m
 ### 1/4/24
 Goals for today:
 + ~tune PADs~
-+ ~finish wiring new robot ~
++ ~finish wiring new robot~
 
 ### 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
