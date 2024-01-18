@@ -8,7 +8,7 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 ### **Rhett Blanton**
 
- 17 years old - 12 Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in the VEX Robotics Competition
+ 17 years old - 12th Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in the VEX Robotics Competition
 
 ### **Whilden Wood**
 
