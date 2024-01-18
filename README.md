@@ -337,7 +337,7 @@ The scoop had to be bended because Elliott's idea for the plow was for it to do 
 + Act as a defensive wedge to temporarily prop up other peoples robots so they become immobile for a couple of seconds without getting DQed for entaglement
 
 Polycarbonate has interesting thermal properties, because it's a plastic it doesnt have a set melting temperature. Instead it has a Vicat Softening point at around 145-150 degrees celcius (293-302 Farenheight). Because we just want to bend the polycarbonate we have to be careful to reach exactly 130 degrees celcius (266 Farenheight) and not go over because this could cause it to warp and bend in ways that are undesirable. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/POLY%20wedge.png">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
 
 Attendance:
 - [x] Elliott
