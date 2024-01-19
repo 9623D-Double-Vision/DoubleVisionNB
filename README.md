@@ -103,16 +103,16 @@ TLDR: Elliott started bainrstorming ideas for Over-Under mechanisms
 After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included; a 6 motor drivetrain with a gear ratio of 36:60,catapult which included a slip gear mechanism made from highstrength axles and rubber bands, and an intake utilizing chain drives and flexwheels in order to grip onto the triballs.
 
 ### 5/1/23
-Elliott researched a way to transport and hold the triballs, he found a claw that uses a chain and sprocket mechanism thats connected to shafts with flex wheels on them to be able to intake the triballs  faster aswell as have a better grip so the robot can hold the triballs more effectively when at highspeeds or taking sharp turns that when using a normal claw would cause the triball to fling escape the contorl of the robot. 
+Elliott researched a way to transport and hold the triballs; he found a claw that uses a chain and sprocket mechanism that connected to shafts with flex wheels on them to be able to intake the triballs faster as well as have a better grip so the robot can hold the triballs more effectively when at high speeds or taking sharp turns that when using a standard claw would cause the triball to fling escape the control of the robot.
 
 ### 5/2/23 
-Elliott tried to figure out different possitons and places to place the claw on the robot and allow it to adjust its height but still have it be stable, eventually he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attatched on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio of 1:7 using a 12T gear and 84T gear. 
+Elliott tried to figure out different positions and places to place the claw on the robot and allow it to adjust its height but still have it be stable; eventually, he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attached on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio 1:7 using a 12T gear and 84T gear. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG">
 ### 5/4/23
-Elliott started cadding a new drive train which includes lifted wheels due to the old drive train was unable to traverse the middle bar so with the added height it allows the robot to access the other side of the field without having to go through the neutral zone. saving time during the match. 
+Elliott started adding a new drive train, which included lifted wheels to the old drive train, which was unable to traverse the middle bar, so the added height allowed the robot to access the other side of the field without having to go through the neutral zone, saving time during the match.
 
 ### 5/8/23 
-Elliott modelled the catapult more, aswell as some arm bracing for the catapult for support 
+Elliott modeled the catapult more and some arm bracing for the catapult for support.       
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9058.JPG">
@@ -162,35 +162,36 @@ Elliott modelled the catapult more, aswell as some arm bracing for the catapult 
 
 ### 11/4/23 (Eagle Qualifier Competition in Beaufort)
 
-#### First match we played in qualification match 2 on the blue alliance and went against 52455C and 93400A whilst being paired with 31055B. We won that match 129-83
+#### In the first match, we played in qualification match 2 on the blue alliance and went against 52455C and 93400A while being paired with 31055B. We won that match 129-83
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20first%20match.PNG">
 
-#### Second match we played in qualification match 6 on the red alliance, and went against 93400A and 40976A whilst being allied with 93400B. We won that match 127-93
+#### In the second match, we played in a qualification match 6 on the red alliance and went against 93400A and 40976A while being allied with 93400B. We won that match 127-93
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20second%20match.PNG">
 
-#### Third match we played in qualification match 9 on the blue alliance, and went against 9623T and 9623S whilst being allied with 3289A. Even though we lost 53-45 we still got WP because 9623T DQd 
+#### In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while being allied with 3289A. Even though we lost 53-45, we still got WP because of 9623T DQd.
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/beaufort%20third%20match.PNG">
 
-#### Fourth match we played in qualification match 12 on the blue alliance, and went against 52455B and 40976A whilst being allied with 3289A 
+#### The fourth match we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while being allied with 3289A
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fourth%20match.PNG">
 
-#### Fifth match we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B whilst being allied with 31055B, we won that match 113 to 58
+#### The fifth match we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while being allied with 31055B; we won that match 113 to 58
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fifth%20match.PNG">
 
-#### Sixth match we played in qualification match 20 on the red alliance, and went against teams 40976B and 31055A whilst being allied with 9623W
+#### The sixth match we played in a qualification match 20 on the red alliance, and went against teams 40976B and 31055A while being allied with 9623W
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufor%20sixth%20match.PNG"> 
 
 #### Alliance Selections 
-We finished first with 13 WPs 44 APs and 378 SPs and a final record of 6-0. We decided to selced 52455A Hyper resolution who finished with 8 WPs 24 APs 249 SPs and a final record of 4-2 but placing first in the skills competion.
+We finished first with 13 WPs, 44 APs, and 378 SPs, and we had a final record of 6-0. We selected 52455A Hyper resolution, completed with 8 WPs, 24 APs, 249 SPs, and a final record of 4-2, but placed first in the skills competition.
 
 #### Semifinals 1-1 
-we played on the red alliance and went against teams 93400A and 9623S and we won that match 101-48
+We played on the red alliance and went against teams 93400A and 9623S, and we won that match 101-48
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Semifinals.PNG">
 
 #### Finals 1-1 
-We played on the red alliance and went against teams 31055B and 9623W and we won that match 160-62 meaning we qualified for State Championships and finished 8-0 
+We played on the red alliance and went against teams 31055B and 9623W, and we won that match 160-62, meaning we qualified for State Championships and finished 8-0
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
@@ -202,67 +203,61 @@ We played on the red alliance and went against teams 31055B and 9623W and we won
 
 
 ### 11/27/23 - 
-Rhett tried to fix seg fault issues in code as well as learning how to program individually addressable neopixels
-Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot’s CAD file in inventor, to fit the specifications of our robot. The 3d face image was imported into a laser cutter which cut the polycarbonate into the right shape. After the laser cutter finished cutting the wings we were able to attach them successfully as well as test them.
+Rhett tried to fix seg fault issues in code and learned how to program individually addressable neopixels. Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot's CAD file in inventor to fit the specifications of our robot. The 3d face image was imported into a laser cutter, which cut the polycarbonate into the right shape. We could attach and test the wings after the laser cutter cut them successfully.
 
 ### 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
 
 #### Q1
- First match we played in qualification match 1 against teams 29485B and 3796K whilst being allied with 29073A. We tied that match 91-91. 
+In the first match, we played in qualification match 1 against teams 29485B and 3796K while allied with 29073A. We tied that match 91-91. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20first%20match.PNG">
 
 #### Q10 
-Second match we played in qualification match 10 against teams 44252R and 9447G whilst being allied with 1660A. We won that match 67-66.
+In the second match, we played in qualification match 10 against teams 44252R and 9447G while being allied with 1660A. We won that match 67-66. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20second%20match.PNG">
 
 #### Q23 
-Third match we played in qualification match 23 against teams 3796H and 9447D whilst being allied with 31617Z. We won that match 115-96.
+In the third match, we played in qualification match 23 against teams 3796H and 9447D while allied with 31617Z. We won that match 115-96. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20third%20match.PNG">
 
 #### Q28 
- Fourth match we played in qualification match 28 against teams 99322A and 9447P whilst being allied with 9447V. We won that match 117-88
+ In the fourth match, we played in qualification match 28 against teams 99322A and 9447P while being allied with 9447V. We won that match 117-88 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fourth%20match.PNG">
 
 #### Q40 
-Fifth match we played in qualification match 40 against teams 1660B and 26468A whilst being allied with 26468B. We won that match 116-74
+In the fifth match, we played in qualification match 40 against teams 1660B and 26468A while being allied with 26468B. We won that match 116-74 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fifth%20match.PNG">
 
 #### Q52
- Sixth match we played in qualification match 52 against teams 9623T and 8686M whilst being paired with 3796G. We won that match 125-88 
+ In the sixth match, we played in qualification match 52 against teams 9623T and 8686M while being paired with 3796G. We won that match 125-88 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20sixth%20match.PNG">
 
 #### We finished 5th in qualifiers with 11 WPs, 16 APs, 503 SPs, and a final record of 5-0-1 
 
-#### (Alliance Selections) We were selected by team 3796K (Roomba) who finisehd 3rd with a record of 5-0-1 and placed 5th in skills 
+#### (Alliance Selections) We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
 
 #### R16 7-1 
-We played in round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29 so we qualified for the quarterfinals 
+We played in the round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20seventh%20match.PNG">
 
 #### QF 4-1
-We played in quarter finals match 4 against teams 26468C and 99322A. We won that match 107-48 meaning we qualified for the semifinals.
+We played in the round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20eighth%20match.PNG">
 
 #### SF 2-1 
-We played in semifinals match 2 against teams 44252A and 9447G. We lost that match 138-63.
+We played in semifinal match 2 against teams 44252A and 9447G. We lost that match 138-63. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20Ninth%20match.PNG">
  
 
 
 ### 12/12/23
-Goals for today 
-
-* ~finish CAD for new robot with catapult instead of flywheel~
-
-* finish programming for wings and pneumatics
-
+Goals for today
++ ~Finish CAD for a new robot with a catapult instead of a flywheel.~
++ finish programming for wings and pneumatics
   
 ### 12/13/23
-Rhett 3D printed cutout guides to turn a 3in flex wheel into a 2.75in.
-Elliott attatched the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia and speed aswell as momentum.
-
+Rhett 3D printed cutout guides to turn a 3-inch flex wheel into a 2.75-inch. Elliott attached the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia, speed, and momentum.
 ### 12/14/23
-After testing the new flywheel Elliott decided it was to big and lost too much momentum after every triball was placed and decidd to opt out of using a flywheel and detatched it from the robot.He reattatched the wings and boxed them so they wont bend when hitting other robots, the nets, or when pushing triballs.
+After testing the new flywheel, Elliott decided it was too big and lost too much momentum after every tribal was placed and determined to opt out of using a flywheel and detach it from the robot. He reattached the wings and boxed them so they wouldn't bend when hitting other robots, the nets, or when pushing tribals.
 
 ### 12/21/23
 + finished CAD for new robot with catapult instead of flywheel
@@ -279,16 +274,17 @@ Goals for today:
 
 ### 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
-#### First match we played in qualification match Q7 on the blue alliance and went against 86400H and 77240G while being allied with 9880D and won that match 77-25 
+#### The first match we played in qualification match Q7 on the blue alliance and went against 86400H and 77240G while being allied with 9880D and won that match 77-25
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/game%201%20jl%20man.PNG">
 
-#### Second match we played in qualification match Q26 on the red alliance and went aggainst 60708B and 9623W whilst being allied with 9880C and won that match 51-41 
+#### The second match we played in qualification match Q26 on the red alliance and went against 60708B and 9623W while being allied with 9880C and won that match 51-41
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/2nd%20game%20JL%20mann.PNG">
 
-#### Third match we played in qualification match Q38 on the blue alliance and went against 85986A and 40994F whilst being allied with 1660A and we lost that match 52-49 
+#### In the third match, we played in qualification match Q38 on the blue alliance and went against 85986A and 40994F while being allied with 1660A, and we lost that match 52-49
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG">
 
-#### fourth match we played in qualification match Q53 on the red alliance and went against 98791C and 49631B whilst being allied with 3796B and won that match 175-5 
+#### The fourth match we played in qualification match Q53 on the red alliance and went against 98791C and 49631B while being allied with 3796B and won that match 175-5
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG">
 
 #### Fifth match we played in qualification match Q64 on the red alliance and went against 3796J and 9880B whilst being allied with 97625E and lost that match 58-72 
@@ -297,16 +293,16 @@ Goals for today:
 #### Sixth match we played in qualification match Q72 on the red alliance and went against 60708A and 86400T whilst being allied with 49631 and lost that match 67-77 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG">
 
-#### At the end of Qualification matches we finsihed 3-3 and placed 32nd in rankings with 6 WP and an OPR of 43.4 and DPR of -4.4 
+#### At the end of Qualification matches, we finished 3-3 and placed 32nd in the rankings with 6 WP, an OPR of 43.4, and a DPR of -4.4
 
 ## Knockout Round Alliance Selections 
-We got selected by team 9623S and we played in R16 6-1 vs 9880B and 9880A, we ended up losing 93-80
+We got selected by team 9623S, and we played in R16 6-1 vs 9880B and 9880A, we ended up losing 93-80
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
 
 ### 1/11/23
 
-After the dissapointing performance of the catapult at the J.L Mann competition we decided to remove it and switch to a slip gear kicker. We also decided to add guides using lazer cut polycarbonate for the intake aswell as for the wheels so we can get over the middle bar utilizing our robots center of gravity by brining it over the bar before the wheels make contact generating a smoother more efficient crossover
+After the disappointing performance of the catapult at the J.L Mann competition, we decided to remove it and switch to a slip gear kicker. We also decided to add guides using laser-cut polycarbonate for the intake and the wheels to get over the middle bar. We utilized our robot's center of gravity by bringing it over the bar before the wheels make contact, generating a smoother, more efficient crossover.
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2.jpeg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_1.jpeg">
@@ -314,9 +310,7 @@ After the dissapointing performance of the catapult at the J.L Mann competition 
 
 ### 1/16/23
 
-Whilden and Rhett practiced match loading 
-Rhett and Elliott tested different Joystick curve coefficients testing the values of 7,9, and 5. Eventually landing on the coefficient of 5 
-
+Whilden and Rhett practiced match loading. Rhett and Elliott tested different Joystick curve coefficients, testing the values of 7,9 and 5. Eventually landing on the coefficient of 5
 #### Graph of Joystick Curve Coefficient value 7 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Joystick%20Curves%20value%207.PNG">
 
@@ -329,14 +323,15 @@ Rhett and Elliott tested different Joystick curve coefficients testing the value
 We were able to complete a skills match load in BLANK leaving us with BLANK amount of time for the driving section
 
 ### 1/17/23 
-Today our goal is to work on the polycarbonate guides and guards for our robot. Elliott finished cutting out the revised polycarbonate wing guards aswell as the wedge that will go on the front of our robot 
+Today, our Goal is to work on our robot's polycarbonate guides and guards. Elliott finished cutting out the revised polycarbonate wing guards and the wedge that will go on the front of our robot.
+The scoop had to be bent because Elliott's idea for the plow was for it to do three things.
 
-The scoop had to be bended because Elliott's idea for the plow was for it to do 3 things 
+The wedge had to be bent because Elliott's idea for the plow was for it to do three things
 + Act as a guard for the robot
 + Act as a plow for the triballs to get over the middle bar easier
 + Act as a defensive wedge to temporarily prop up other peoples robots so they become immobile for a couple of seconds without getting DQed for entaglement
 
-Polycarbonate has interesting thermal properties, because it's a plastic it doesnt have a set melting temperature. Instead it has a Vicat Softening point at around 145-150 degrees celcius (293-302 Farenheight). Because we just want to bend the polycarbonate we have to be careful to reach exactly 130 degrees celcius (266 Farenheight) and not go over because this could cause it to warp and bend in ways that are undesirable. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position 
+Polycarbonate has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Farenheight). Because we want to bend the polycarbonate, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
 
 Attendance:
