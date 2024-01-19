@@ -263,6 +263,7 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
 + finished CAD for new robot with catapult instead of flywheel
 + started coding for new wings and pneumatics
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg">
 
 
 ### Winter 2 Week Break 
