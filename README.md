@@ -265,7 +265,7 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png">
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg">
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA_dark.jpeg">
- 
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg">
 
 
 ### Winter 2 Week Break 
