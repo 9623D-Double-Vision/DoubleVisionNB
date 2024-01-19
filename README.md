@@ -1,4 +1,4 @@
-# DoubleVisionNB
+i# DoubleVisionNB
 VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 ## Team Bio
 
@@ -125,6 +125,7 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 ### 5/14/23 
 
 ### 5/24/23
+Elliott started designing a new drive train, including a 6-motor, quad 4-inch Omni wheel setup, and two flex wheels located in the middle of the Omni wheels setup for easier gripping and traversing the middle bar efficiently. It has a gear ratio. Of 36:72, it totaled 300rpm.
 
 ### 5/30/23
 
