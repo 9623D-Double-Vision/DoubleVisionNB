@@ -131,6 +131,9 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/dt_corner_lifted_middle.png">
 
 ### 5/30/23
+
+
+{% include youtubePlayer.html id=https://www.youtube.com/shorts/t7kxJF9mHt8 %}
 <iframe src="https://www.youtube.com/shorts/t7kxJF9mHt8" height="300" width="100" ></iframe>
 
 ### 2 month break for summer 
