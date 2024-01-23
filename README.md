@@ -354,27 +354,35 @@ Polycarbonate has interesting thermal properties; it doesn't have a set melting 
 ### 1/20/24 (Lowcountry Winter Qualifier HS Only)
 ### Q3
 ### In the first match, we played in qualification match 3 against teams 9447G and 88310W while being allied with 3859S. We lost this match 92-72.
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20first%20match.PNG">
 
 ### Q5
 ### In the second match, we played on the blue alliance against teams 9623S and 9623W whilst being allied with 88310U. We lost this match 86-72 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20second%20match.PNG">
 
 ### Q11 
 ### In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. We won 108-45
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20third%20match.PNG">
 
 ### Q15 
 ### In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. We won 94-64.
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%fourth%20match.PNG">
 
 ### Q17 
 ### In the fifth match we played on the blue alliance against teams 3859S and 3859E whilst being allied with 9623T. We won 126-60
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fifth%20match.PNG>
 
 ### Q23 
 ### In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. We won 182-72
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20sixth%20match.PNG"
 
 ### Q25 
 ### In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. We won 106-47
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20seventh%20match.PNG">
 
 ### Q29 
 ### In the eighth match we played against teams 9447W and 31055A whilst being allied with 31055B. We won that match 142-112
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eighth%20match.PNG">
 ### Final Qualifying Standings 
 We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs 
 
