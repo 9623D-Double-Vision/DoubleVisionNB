@@ -142,12 +142,15 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 ### 4 month break for summer and beginning of the next VRC season 
 
 ### 9/8/23
+Elliott modeled a 45 degree angled intake for the robot. 
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg">
+
+### 9/12/23
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0990.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0991.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0992.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0993.jpg">
-### 9/12/23
 
 ### 9/14/23
 
