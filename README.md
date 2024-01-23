@@ -375,10 +375,20 @@ Polycarbonate has interesting thermal properties; it doesn't have a set melting 
 
 ### Q29 
 ### In the eighth match we played against teams 9447W and 31055A whilst being allied with 31055B. We won that match 142-112
-### Final Standings 
-### we
+### Final Qualifying Standings 
+We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs 
 
 ### Alliance Selections 
+For alliance selections we were selected by team 9623W (WALL-E) who were ranked 2nd with 17 WPs, 48 APs, and 528 SPs and a final record of 7-1.
+
+### QF 3-1
+### In the first elimination match, we played on the red alliance against teams 3859S and 71002A. We won that match 127-28
+
+### SF 2-1 
+### In the second semi-finals match, we played on the red alliance against teams 88310W and 31055A. We won that match 124-69
+
+### Final
+### In the final, we played on the blue alliance against teams 9623S and 9447G. We lost the final 186-120
 Attendance:
 - [x] Elliott
 - [x] Rhett
