@@ -351,6 +351,21 @@ The wedge had to be bent because Elliott's idea for the plow was for it to do th
 Polycarbonate has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Farenheight). Because we want to bend the polycarbonate, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
 
+### 1/20/24 (Lowcountry Winter Qualifier HS Only)
+### Q3
+### In the first match, we played in qualification match 3 against teams 9447G and 88310W while being allied with 3859S. We lost this match 92-72.
+
+### Q5
+### In the second match, we played on the blue alliance against teams 9623S and 9623W whilst being allied with 88310U. We lost this match 86-72 
+
+### Q11 
+### In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. We won 108-45
+
+### Q15 
+### In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. We won 94-64.
+
+### Q17 
+### In the fifth match we played on the blue alliance against
 Attendance:
 - [x] Elliott
 - [x] Rhett
