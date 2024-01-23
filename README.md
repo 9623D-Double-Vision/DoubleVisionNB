@@ -134,11 +134,12 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg">
-<img src=https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9521.jpg>"
+<img src=https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9521.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9523.jpg">
 
 
 
-### 4 month break for summer 
+### 4 month break for summer and beginning of the next VRC season 
 
 ### 9/8/23
 
