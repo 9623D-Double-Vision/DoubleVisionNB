@@ -133,6 +133,8 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 ### 5/30/23
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg">
+
 
 
 
