@@ -363,18 +363,17 @@ Polycarbonate has interesting thermal properties; it doesn't have a set melting 
 ### Q11 
 ### In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. We won 108-45
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20third%20match.PNG">
-
 ### Q15 
 ### In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. We won 94-64.
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%fourth%20match.PNG">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fourth%20match.PNG">
 
 ### Q17 
 ### In the fifth match we played on the blue alliance against teams 3859S and 3859E whilst being allied with 9623T. We won 126-60
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fifth%20match.PNG>
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fifth%20match.PNG">
 
 ### Q23 
 ### In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. We won 182-72
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20sixth%20match.PNG"
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20sixth%20match.PNG">
 
 ### Q25 
 ### In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. We won 106-47
@@ -383,6 +382,7 @@ Polycarbonate has interesting thermal properties; it doesn't have a set melting 
 ### Q29 
 ### In the eighth match we played against teams 9447W and 31055A whilst being allied with 31055B. We won that match 142-112
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eighth%20match.PNG">
+
 ### Final Qualifying Standings 
 We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs 
 
@@ -391,12 +391,15 @@ For alliance selections we were selected by team 9623W (WALL-E) who were ranked 
 
 ### QF 3-1
 ### In the first elimination match, we played on the red alliance against teams 3859S and 71002A. We won that match 127-28
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20ninth%20match.PNG">
 
 ### SF 2-1 
 ### In the second semi-finals match, we played on the red alliance against teams 88310W and 31055A. We won that match 124-69
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20tenth%20game.PNG">
 
 ### Final
 ### In the final, we played on the blue alliance against teams 9623S and 9447G. We lost the final 186-120
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eleventh%20match.PNG">
 Attendance:
 - [x] Elliott
 - [x] Rhett
