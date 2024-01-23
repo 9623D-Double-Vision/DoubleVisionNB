@@ -365,7 +365,20 @@ Polycarbonate has interesting thermal properties; it doesn't have a set melting 
 ### In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. We won 94-64.
 
 ### Q17 
-### In the fifth match we played on the blue alliance against
+### In the fifth match we played on the blue alliance against teams 3859S and 3859E whilst being allied with 9623T. We won 126-60
+
+### Q23 
+### In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. We won 182-72
+
+### Q25 
+### In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. We won 106-47
+
+### Q29 
+### In the eighth match we played against teams 9447W and 31055A whilst being allied with 31055B. We won that match 142-112
+### Final Standings 
+### we
+
+### Alliance Selections 
 Attendance:
 - [x] Elliott
 - [x] Rhett
