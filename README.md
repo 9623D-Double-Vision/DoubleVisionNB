@@ -1,6 +1,6 @@
 # DoubleVisionNB
 VRC HS Team 9623D Double Vision's Digital Engineering Notebook
-## Team Bio
+# Team Bio
 
 ### **Elliott McAninch**
 
@@ -12,15 +12,15 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 ### **Whilden Wood**
 
- 14 years old - 9th Grade - **Secondary Notebook Loggist**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
+ 14 years old - 9th Grade - **Secondary Notebook Writer**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
 
 ### **Noly Dismuke**
 
-18 years old - 12th grade - **Main Notebook Loggist**- Noly has 3 years of experience in VEX Robotics
+18 years old - 12th grade - **Main Notebook Writer**- Noly has 3 years of experience in VEX Robotics
 
 3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
-## Game Explanation
+# Game Explanation
 
 This year's competition is titled VEX: Over-Under
 
@@ -56,7 +56,7 @@ The Goal refers specifically to the three-dimensional volume bounded by a vertic
 ![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/Goal-Dimensions.png) 
 
 ### Match Loading Bars
-There is a Match Loading Bar in each of the four courners of the field specified by Alliance Color. 
+There is a Match Loading Bar in each of the four corners of the field specified by Alliance Color. 
 
 The Match Loading Bars are 30" in length and 2.38" in diameter. 
 ![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/11.png)
@@ -92,19 +92,22 @@ Robots can move Triballs into their alliance's Goal or offensive zone to score p
 
 # Dated Entries
 
-# 4/29/23 - VRC Game Reveal 2023
+# **4/29/23 - VRC Game Reveal 2023**
 *This entry was not a formal practice.*
+
+- [x] Elliott
 
 On the last day of worlds, the 2023-2024 VRC Competition was revealed. Elliott attended worlds with his former team. After the game reveal, Elliott started to brainstorm potential mechanisms for Over-Under. He came across a FRC game similar to OU called Charge-Up. He found FRC team 2910's robot that completed the same function of picking up Reuleaux polygons similar to OU Triballs. The video he saw of the robot is listed below.
 [![IMAGE ALT TEXT HERE]()
 
 FRC team 2910's robot had a standard tank drivetrain with an arm, as well as an intake that uses rubber rollers similar to VRC Flex Wheels. The function of the arm and intake was meant to grab the scoring objects off the ground and extend the arm out to place them on a platform. This is very similar to how the VEX Over-Under game is played. 
 
-TLDR: Elliott started brainstorming ideas for Over-Under mechanisms
+## **Entry Recap**
+Elliott started brainstorming ideas for Over-Under mechanisms.
 
 # 4/30/23 - Initial Design
 
-After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included a 6-motor drivetrain with a gear ratio of 36:60, a catapult that included a slip gear mechanism made from high-strength axles and rubber bands, and an intake utilizing chain drives and flex wheels in order to grip onto the tribals.
+After analyzing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included a 6-motor drivetrain with a gear ratio of 36:60, a catapult that included a slip gear mechanism made from high-strength axles and rubber bands, and an intake utilizing chain drives and flex wheels in order to grip onto the triballs.
 
 # 5/1/23
 Elliott researched a way to transport and hold the triballs; he found a claw that uses a chain and sprocket mechanism that connected to shafts with flex wheels on them to be able to intake the triballs faster as well as have a better grip so the robot can hold the triballs more effectively when at high speeds or taking sharp turns that when using a standard claw would cause the triball to fling escape the control of the robot.
@@ -126,12 +129,10 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9060.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9061.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG">
-
-
-# 5/14/23 
+ 
 
 # 5/24/23
-Elliott started designing a new drive train, including a 6-motor, quad 4-inch Omni wheel setup, and two flex wheels located in the middle of the Omni wheels setup for easier gripping and traversing the middle bar efficiently. It has a gear ratio. Of 36:72, it totaled 300rpm.
+Elliott started designing a new drive train, including a 6-motor, quad 4-inch omni wheel setup, and two flex wheels located in the middle of the omni wheels setup for easier gripping and traversing the middle bar efficiently. It has a gear ratio. Of 36:72, it totaled 300rpm.
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/front_view_dt_lifted_middle.png">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/drivetrain_lifted_middle.png">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/dt_corner_lifted_middle.png">
@@ -148,7 +149,8 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 # 4 month break for summer and beginning of the next VRC season 
 
 # 9/8/23
-
+- [ ] Elliott
+- [ ] Rhett
 
 Elliott modeled a 45-degree angled intake for the robot. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg">
@@ -274,6 +276,10 @@ We played in semifinal match 2 against teams 44252A and 9447G. We lost that matc
 
 
 # 12/12/23
+- [ ] Elliott
+- [ ] Rhett
+- [ ] Whilden
+
 Goals for today
 + ~Finish CAD for a new robot with a catapult instead of a flywheel.~
 + finish programming for wings and pneumatics
@@ -281,7 +287,7 @@ Goals for today
 # 12/13/23
 Rhett 3D printed cutout guides to turn a 3-inch flex wheel into a 2.75-inch. Elliott attached the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia, speed, and momentum.
 # 12/14/23
-After testing the new flywheel, Elliott decided it was too big and lost too much momentum after every tribal was placed and determined to opt out of using a flywheel and detach it from the robot. He reattached the wings and boxed them so they wouldn't bend when hitting other robots, the nets, or when pushing tribals.
+After testing the new flywheel, Elliott decided it was too big and lost too much momentum after every tribal was placed and determined to opt out of using a flywheel and detach it from the robot. He reattached the wings and boxed them so they wouldn't bend when hitting other robots, the nets, or when pushing triballs.
 
 # 12/21/23
 + finished CAD for new robot with catapult instead of flywheel
@@ -297,8 +303,8 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
 
 # 1/4/24
 Goals for today:
-+ ~tune PADs~
-+ ~finish wiring new robot~
+- [ ] tune PADs
+- [ ] finish wiring new robot
 
 # 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
@@ -357,9 +363,9 @@ The scoop had to be bent because Elliott's idea for the plow was for it to do th
 The wedge had to be bent because Elliott's idea for the plow was for it to do three things
 + Act as a guard for the robot
 + Act as a plow for the triballs to get over the middle bar easier
-+ Act as a defensive wedge to temporarily prop up other people's robots so they become immobile for a couple of seconds without getting DQed for entaglement
++ Act as a defensive wedge to temporarily prop up other people's robots so they become immobile for a couple of seconds without getting DQed for entanglement
 
-Polycarbonate has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Farenheight). Because we want to bend the polycarbonate, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
+Delrin has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Fahrenheit). Because we want to bend the Delrin, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
 
 # 1/20/24 (Lowcountry Winter Qualifier HS Only)
@@ -418,10 +424,21 @@ Attendance:
 - [x] Whilden 
 - [x] Noly
 
-# 1/25/24
+# **1/25/24**
 
-## *Attendance:*
+## **Attendance**
 - [x] Elliott
 - [x] Rhett
 - [ ] Whilden 
 - [x] Noly
+
+## **Goals for Today**
+- [ ] Finish "5 Ball Rush Auton"
+- [ ] Test "Close Side Win Point Auton"
+- [ ] Design, Test and Finish Hang
+
+
+The "5 Ball Rush Auton" aims to take control of the 2 triballs easily captured by either team this early on. 
+
+Usually we CAD our design before we think about building it, but we chose to take the trial and error approach for our hanging mech. Inventor is difficult to use with joints, and our hang bar is based strongly on our joints. Any model we would make would be inaccurate, difficult to add, and a waste of time. It would be much easier for us to start with something and adjust it as we go.
+
