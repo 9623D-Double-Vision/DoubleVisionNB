@@ -12,7 +12,11 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 ### **Whilden Wood**
 
- 14 years old - 9th Grade - **Main Notebook Loggist**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
+ 14 years old - 9th Grade - **Secondary Notebook Loggist**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
+
+### **Noly Dismuke**
+
+18 years old - 12th grade - **Main Notebook loggist**- Noly has 3 
 
 All 3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
