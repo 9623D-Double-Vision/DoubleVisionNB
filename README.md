@@ -90,9 +90,9 @@ Robots can move Triballs into their alliance's Goal or offensive zone to score p
 ### Criteria for optimally scoring Triballs
 - 
 
-## Dated Entries
+# Dated Entries
 
-### 4/29/23 - VRC Game Reveal 2023
+# 4/29/23 - VRC Game Reveal 2023
 *This entry was not a formal practice.*
 
 On the last day of worlds, the 2023-2024 VRC Competition was revealed. Elliott attended worlds with his former team. After the game reveal, Elliott started to brainstorm potential mechanisms for Over-Under. He came across a FRC game similar to OU called Charge-Up. He found FRC team 2910's robot that completed the same function of picking up Reuleaux polygons similar to OU Triballs. The video he saw of the robot is listed below.
@@ -102,22 +102,22 @@ FRC team 2910's robot had a standard tank drivetrain with an arm, as well as an 
 
 TLDR: Elliott started brainstorming ideas for Over-Under mechanisms
 
-### 4/30/23 - Initial Design
+# 4/30/23 - Initial Design
 
 After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included a 6-motor drivetrain with a gear ratio of 36:60, a catapult that included a slip gear mechanism made from high-strength axles and rubber bands, and an intake utilizing chain drives and flex wheels in order to grip onto the tribals.
 
-### 5/1/23
+# 5/1/23
 Elliott researched a way to transport and hold the triballs; he found a claw that uses a chain and sprocket mechanism that connected to shafts with flex wheels on them to be able to intake the triballs faster as well as have a better grip so the robot can hold the triballs more effectively when at high speeds or taking sharp turns that when using a standard claw would cause the triball to fling escape the control of the robot.
 
-### 5/2/23 
+# 5/2/23 
 Elliott tried to figure out different positions and places to place the claw on the robot and allow it to adjust its height but still have it be stable; eventually, he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attached on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio 1:7 using a 12T gear and 84T gear. 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG" height="400" width="400">
 
-### 5/4/23
+# 5/4/23
 Elliott started adding a new drive train, which included lifted wheels to the old drive train, which was unable to traverse the middle bar, so the added height allowed the robot to access the other side of the field without having to go through the neutral zone, saving time during the match.
 
-### 5/8/23 
+# 5/8/23 
 Elliott modeled the catapult more and some arm bracing for the catapult for support.       
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG">
@@ -128,15 +128,15 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG">
 
 
-### 5/14/23 
+# 5/14/23 
 
-### 5/24/23
+# 5/24/23
 Elliott started designing a new drive train, including a 6-motor, quad 4-inch Omni wheel setup, and two flex wheels located in the middle of the Omni wheels setup for easier gripping and traversing the middle bar efficiently. It has a gear ratio. Of 36:72, it totaled 300rpm.
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/front_view_dt_lifted_middle.png">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/drivetrain_lifted_middle.png">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/dt_corner_lifted_middle.png">
 
-### 5/30/23
+# 5/30/23
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg">
@@ -145,44 +145,46 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 
 
 
-### 4 month break for summer and beginning of the next VRC season 
+# 4 month break for summer and beginning of the next VRC season 
 
-### 9/8/23
+# 9/8/23
+
+
 Elliott modeled a 45-degree angled intake for the robot. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg">
 
-### 9/12/23
+# 9/12/23
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0990.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0991.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0992.jpg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0993.jpg">
 
-### 9/14/23
+# 9/14/23
 
-### 9/16/23
+# 9/16/23
 
-### 9/18/23
+# 9/18/23
 
-### 9/21/23
+# 9/21/23
 
-### 9/22/23
+# 9/22/23
 
-### 9/25/23
+# 9/25/23
 
-### 9/27/23
+# 9/27/23
 
-### 9/29/23
+# 9/29/23
 
-### 10/6/23
+# 10/6/23
 
-### 10/26/23
+# 10/26/23
 
-### 10/31/23
+# 10/31/23
 
-### 11/2/23
+# 11/2/23
 
-### 11/4/23 (Eagle Qualifier Competition in Beaufort)
+# 11/4/23 (Eagle Qualifier Competition in Beaufort)
 
 #### In the first match, we played in qualification match 2 on the blue alliance and went against 52455C and 93400A while being paired with 31055B. We won that match 129-83
 
@@ -218,16 +220,16 @@ We played on the red alliance and went against teams 31055B and 9623W, and we wo
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
 
-### 11/12/23
+# 11/12/23
 
 
 
 
 
-### 11/27/23 - 
+# 11/27/23 - 
 Rhett tried to fix seg fault issues in code and learned how to program individually addressable neopixels. Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot's CAD file in inventor to fit the specifications of our robot. The 3d face image was imported into a laser cutter, which cut the polycarbonate into the right shape. We could attach and test the wings after the laser cutter cut them successfully.
 
-### 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
+# 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
 
 #### Q1
 In the first match, we played in qualification match 1 against teams 29485B and 3796K while allied with 29073A. We tied that match 91-91. 
@@ -271,17 +273,17 @@ We played in semifinal match 2 against teams 44252A and 9447G. We lost that matc
  
 
 
-### 12/12/23
+# 12/12/23
 Goals for today
 + ~Finish CAD for a new robot with a catapult instead of a flywheel.~
 + finish programming for wings and pneumatics
   
-### 12/13/23
+# 12/13/23
 Rhett 3D printed cutout guides to turn a 3-inch flex wheel into a 2.75-inch. Elliott attached the flywheel mechanism and tested different weights in the flywheels to see which configuration is the best mix of inertia, speed, and momentum.
-### 12/14/23
+# 12/14/23
 After testing the new flywheel, Elliott decided it was too big and lost too much momentum after every tribal was placed and determined to opt out of using a flywheel and detach it from the robot. He reattached the wings and boxed them so they wouldn't bend when hitting other robots, the nets, or when pushing tribals.
 
-### 12/21/23
+# 12/21/23
 + finished CAD for new robot with catapult instead of flywheel
 + started coding for new wings and pneumatics
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png">
@@ -290,15 +292,15 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg">
 
 
-### Winter 2 Week Break 
+# Winter 2 Week Break 
 
 
-### 1/4/24
+# 1/4/24
 Goals for today:
 + ~tune PADs~
 + ~finish wiring new robot~
 
-### 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
+# 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
 #### The first match we played in qualification match Q7 on the blue alliance and went against 86400H and 77240G while being allied with 9880D and won that match 77-25
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/game%201%20jl%20man.PNG">
@@ -326,7 +328,7 @@ We got selected by team 9623S, and we played in R16 6-1 vs 9880B and 9880A, we e
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
 
-### 1/11/23
+# 1/11/24
 
 After the disappointing performance of the catapult at the J.L Mann competition, we decided to remove it and switch to a slip gear kicker. We also decided to add guides using laser-cut polycarbonate for the intake and the wheels to get over the middle bar. We utilized our robot's center of gravity by bringing it over the bar before the wheels make contact, generating a smoother, more efficient crossover.
 
@@ -334,7 +336,7 @@ After the disappointing performance of the catapult at the J.L Mann competition,
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_1.jpeg">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_2.jpeg">
 
-### 1/16/23
+# 1/16/24
 
 Whilden and Rhett practiced match loading. Rhett and Elliott tested different Joystick curve coefficients, testing the values of 7,9 and 5. Eventually landing on the coefficient of 5
 #### Graph of Joystick Curve Coefficient value 7 
@@ -348,7 +350,7 @@ Whilden and Rhett practiced match loading. Rhett and Elliott tested different Jo
 
 We completed a skills match load in 35 seconds, leaving us with 25 seconds for the driving section.
 
-### 1/17/23 
+# 1/17/24 
 Today, our Goal is to work on our robot's polycarbonate guides and guards. Elliott finished cutting out the revised polycarbonate wing guards and the wedge that will go on the front of our robot.
 The scoop had to be bent because Elliott's idea for the plow was for it to do three things.
 
@@ -360,7 +362,7 @@ The wedge had to be bent because Elliott's idea for the plow was for it to do th
 Polycarbonate has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Farenheight). Because we want to bend the polycarbonate, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
 
-### 1/20/24 (Lowcountry Winter Qualifier HS Only)
+# 1/20/24 (Lowcountry Winter Qualifier HS Only)
 ### Q3
 ### In the first match, we played in qualification match 3 against teams 9447G and 88310W while being allied with 3859S. We lost this match 92-72.
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20first%20match.PNG">
@@ -414,4 +416,12 @@ Attendance:
 - [x] Elliott
 - [x] Rhett
 - [x] Whilden 
+- [x] Noly
+
+# 1/25/24
+
+## *Attendance:*
+- [x] Elliott
+- [x] Rhett
+- [ ] Whilden 
 - [x] Noly
