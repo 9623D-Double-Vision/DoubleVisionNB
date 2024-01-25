@@ -408,3 +408,4 @@ Attendance:
 - [x] Elliott
 - [x] Rhett
 - [x] Whilden 
+- [x] Noly
