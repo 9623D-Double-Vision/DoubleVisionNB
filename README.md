@@ -65,7 +65,7 @@ Two elevation Structures are found at both ends of the Middle Barrier and attach
 The Elevation Bar is 11.63" off the ground as well as 21.89" in length. The Elevation Pole is 30.23" tall. Both the Elevation Bar and Pole are 2.38" in diameter.
 ![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/10.png) 
 
-These structures allow teams to gain up to 20 points for the highest hang. An elevation Measurement Stick determines the robots' elevation tier. Some teams won't have the mechanics needed to hang, giving the teams that do an advantage. 
+These structures allow teams to gain up to 20 points for the highest hang. An elevation measurement stick determines the robot's elevation tier. Some teams won't have the mechanics needed to hang, giving the teams that do an advantage. 
 
 ### Middle Barrier
 A barrier separates the field into two sides at the center. At any time, each team is allowed to traverse over the Middle Barrier to get to the other side. 
@@ -73,15 +73,15 @@ A barrier separates the field into two sides at the center. At any time, each te
 The Middle Barrier is 91.88" in length and 2.38" in diameter. The barrier is raised 0.50" off the ground and 2.88" at its highest point. 
 ![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/9.png) 
 
-During the match, if 2 robots from the same alliance are on the same side of the Middle Barrier it is considered Double-Zoning. If Double-Zoning occurs, the opposing alliance is allowed to de-score from the opposite's Alliance Goal. 
+During the match, if 2 robots from the same alliance are on the same side of the Middle Barrier it is considered Double-Zoning. If Double-Zoning occurs, the opposing alliance can de-score from the opposite alliance's Goal. 
 
 ### Triballs
-The field is set up with 12 neutral Triballs that are placed in the same position at the beginning of each match. During the match, each alliance has 22 neutral Triballs that can be matchload into the Match Load Zones or gently matchloaded onto their robot that is contacting the Match Load Zone. The Triballs can be found in the green neutral color, or  red or blue designating each alliance. 
+The field is set up with 12 neutral Triballs that are placed in the same position at the beginning of each match. During the match, each alliance has 22 neutral Triballs that can be matchloaded into the Match Load Zones or gently matchloaded onto their robot that is contacting the Match Load Zone. The Triballs can be found in the green neutral color, or  red or blue designating each alliance. 
 
 The Triballs are a slightly rounded triangular pyramidal shape, also known as a Reuleaux Triangle. Each Triball is 6.18" tall and weighs approximately 110 grams. 
 ![unnamed](https://content.vexrobotics.com/docs/23-24/vrc-overunder/online-manual/image/6.png) 
 
-During the match, robots can move Triballs into their alliance's Goal or offensive zone to score points. Each robot can only possess one Triball at a time.
+Robots can move Triballs into their alliance's Goal or offensive zone to score points during the match. Each robot can only possess one Triball at a time.
 
 ### Criteria for optimally scoring Triballs
 - 
@@ -107,7 +107,9 @@ Elliott researched a way to transport and hold the triballs; he found a claw tha
 
 ### 5/2/23 
 Elliott tried to figure out different positions and places to place the claw on the robot and allow it to adjust its height but still have it be stable; eventually, he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attached on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio 1:7 using a 12T gear and 84T gear. 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG">
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG" height="400" width="400">
+
 ### 5/4/23
 Elliott started adding a new drive train, which included lifted wheels to the old drive train, which was unable to traverse the middle bar, so the added height allowed the robot to access the other side of the field without having to go through the neutral zone, saving time during the match.
 
