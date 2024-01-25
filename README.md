@@ -1,4 +1,4 @@
-i# DoubleVisionNB
+# DoubleVisionNB
 VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 ## Team Bio
 
