@@ -16,9 +16,9 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 ### **Noly Dismuke**
 
-18 years old - 12th grade - **Main Notebook loggist**- Noly has 3 
+18 years old - 12th grade - **Main Notebook Loggist**- Noly has 3 years of experience in VEX Robotics
 
-All 3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
+3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
 ## Game Explanation
 
