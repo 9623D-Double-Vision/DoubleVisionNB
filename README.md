@@ -100,7 +100,7 @@ TLDR: Elliott started bainrstorming ideas for Over-Under mechanisms
 
 ### 4/30/23 - Initial Design
 
-After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included; a 6 motor drivetrain with a gear ratio of 36:60,catapult which included a slip gear mechanism made from highstrength axles and rubber bands, and an intake utilizing chain drives and flexwheels in order to grip onto the triballs.
+After analysing FRC team 2910's robot Elliott started 3D Modeling a bot modified for the Over-Under competition. This design included a 6-motor drivetrain with a gear ratio of 36:60, a catapult that included a slip gear mechanism made from high-strength axles and rubber bands, and an intake utilizing chain drives and flex wheels in order to grip onto the tribals.
 
 ### 5/1/23
 Elliott researched a way to transport and hold the triballs; he found a claw that uses a chain and sprocket mechanism that connected to shafts with flex wheels on them to be able to intake the triballs faster as well as have a better grip so the robot can hold the triballs more effectively when at high speeds or taking sharp turns that when using a standard claw would cause the triball to fling escape the control of the robot.
@@ -142,7 +142,7 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch Om
 ### 4 month break for summer and beginning of the next VRC season 
 
 ### 9/8/23
-Elliott modeled a 45 degree angled intake for the robot. 
+Elliott modeled a 45-degree angled intake for the robot. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg">
 
 ### 9/12/23
