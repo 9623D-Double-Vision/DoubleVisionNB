@@ -18,20 +18,20 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 18 years old - 12th grade - **Main Notebook Writer**- Noly has 3 years of experience in VEX Robotics
 
-3 of our members contribute to the drive team during competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
+3 of our members contribute to the drive team during the competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
 # Game Explanation
 
 This year's competition is titled VEX: Over-Under
 
-The field will be divided horizontally into two halves; however, during the match, there are two Alliance Offensive Zones corresponding to the color of the Alliance Goal. There are two goals each being assigned one alliance color, as well as four Match Loading Zones, two being assigned to each alliance color. There are 2 elevation structures, each corresponding with a color to indicate alliance use. Teams will be tasked with scoring triballs from the field and the alliance match loading zone. Triballs are scored in your alliance goal for 5 points each. They can also be scored by remaining in your alliance's offensive zone at the end of the match for 2 points each. There are 2 red and 2 blue triballs each corresponding to an alliance, they can be scored in any alliance goal or zone. In the last 30 seconds of the match, robots will be allowed to elevate off the ground while remaining in contact with their alliance elevation structure. Elevation points are given based on elevation height and opposing teams elevation height. 
+The field will be divided horizontally into two halves; however, during the match, there are two Alliance Offensive Zones corresponding to the color of the Alliance Goal. There are two goals each being assigned one alliance color, as well as four Match Loading Zones, two being assigned to each alliance color. There are 2 elevation structures, each corresponding with a color to indicate alliance use. Teams will be tasked with scoring triballs from the field and the alliance match loading zone. Triballs are scored in your alliance goal for 5 points each. They can also be scored by remaining in your alliance's offensive zone at the end of the match for 2 points each. There are 2 red and 2 blue triballs each corresponding to an alliance, they can be scored in any alliance goal or zone. In the last 30 seconds of the match, robots will be allowed to elevate off the ground while remaining in contact with their alliance elevation structure. Elevation points are given based on elevation height and opposing teams' elevation height. 
 ![Alt Text](https://vrc-kb.recf.org/hc/article_attachments/14498622602519)
 ![Alt Text](https://www.vexrobotics.com/media/wysiwyg/Side_View_1.png)
 The match will start with a 15-second autonomous period followed by a driver-controlled period lasting a minute and 45 seconds. All game rules are in effect during both the autonomous period and the driver-controlled period, though manually driving the bot using the controller is not allowed during the autonomous period. Each alliance is given 2 colored triballs corresponding to their alliance color.
 
- The robots' starting possession at the start of the match has to be within 18"x 18 " x 18". At the beginning of the match, robots are allowed to expand up to 36" horizontally. During the match, each robot is only able to be in possession of 1 triball at a time.
+ The robots' starting possession at the start of the match has to be within 18"x 18 " x 18". At the beginning of the match, robots are allowed to expand up to 36" horizontally. During the match, each robot is only able to have 1 triball at a time.
 
- Robots may only be constructed with up to 8 V5 motors as well as 2 pneumatic reservoirs, each capped at 100 Psi. The use of non-VEX parts is legal as long as they are deemed nonfunctional decoration by a judge. No external tampering with any electronic devices is allowed.
+ Robots may only be constructed with up to 8 V5 motors as well as 2 pneumatic reservoirs, each capped at 100 Psi. Using non-VEX parts is legal as long as they are deemed nonfunctional decoration by a judge. No external tampering with any electronic devices is allowed.
 
  ## Scoring
 
@@ -44,7 +44,7 @@ The match will start with a 15-second autonomous period followed by a driver-con
 |Winner of Autonomous Bonus| 8 Points|
 
 ## Field Elements
-In Over-Under there are 5 unique field elements consisting of the Alliance Goals, Match Loading Bars, Elevation Structures, Middle Barrier, and Triballs. 
+In Over-Under, there are 5 unique field elements: the Alliance Goals, Match Loading Bars, Elevation Structures, Middle Barrier, and Triballs. 
 
 ### Alliance Goals
 The Alliance Goals can be found on opposite sides of the field and sit on bars attached to the outer walls of the perimeter. There is a net that connects to the front goal support and rests on the back perimeter, creating an angle. The goals can be found in two colors, red and blue, to designate which alliance scores in each Goal. 
