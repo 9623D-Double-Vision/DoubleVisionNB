@@ -281,40 +281,46 @@ In the first match, we played on the blue alliance and went against 52455C and 9
 
 ### Q6
 In the second match, we played on the red alliance and went against 93400A and 40976A while allied with 93400B. **We won this match with 127-93.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20second%20match.PNG">
 
 ### Q9
 In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while allied with 3289A. **We lost this match with 53-45, but still got the Auton WP because 9623T DQd.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/beaufort%20third%20match.PNG">
 
 ### Q12
-In the fourth match, we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while allied with 3289A.
+In the fourth match, we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while allied with 3289A. **We won this match with 82-26.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fourth%20match.PNG">
 
 ### Q17
 In the fifth match, we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while allied with 31055B. **We won this match with 113-58.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fifth%20match.PNG">
 
 ### Q20
-In the sixth match, we played in a qualification match 20 on the red alliance, and went against teams 40976B and 31055A while allied with 9623W.
+In the sixth match, we played on the red alliance and went against teams 40976B and 31055A while allied with 9623W. **We won this match with 111-73.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufor%20sixth%20match.PNG"> 
 
 ### Alliance Selections 
 We finished first with 13 WPs, 44 APs, and 378 SPs, and we had a final record of 6-0. We selected 52455A Hyper Resolution, completed with 8 WPs, 24 APs, 249 SPs, and a final record of 4-2, but placed first in the skills competition.
 
-### Semifinals 1-1 
-We played on the red alliance and went against teams 93400A and 9623S. **We won this match 101-48.**
+### SF 1-1 (Semifinals)
+We played on the red alliance and went against teams 93400A and 9623S. **We won this match with 101-48.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Semifinals.PNG">
 
-### Finals 1-1 
+### F 1-1 (Finals)
 We played on the red alliance and went against teams 31055B and 9623W. **We won this match with 160-62.** 
+
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
 ### End Result
 We were able to get through the tournament 8-0 and earning the Tournament Champion award, granting us a qualification to the State Championship.
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
+
 
 
 # 11/12/23
@@ -340,44 +346,44 @@ Rhett tried to fix seg fault issues in code and learned how to program individua
 - [x] Rhett
 
 ### Q1
-In the first match, we played in qualification match 1 against teams 29485B and 3796K while allied with 29073A. We tied that match 91-91.
+In the first match, we played on the blue alliance and went against teams 29485B and 3796K while allied with 29073A. **We tied that match 91-91.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20first%20match.PNG">
 
 ### Q10 
-#### In the second match, we played in qualification match 10 against teams 44252R and 9447G while being allied with 1660A. We won that match 67-66. 
+In the second match, we played on the red alliance and went against teams 44252R and 9447G while being allied with 1660A. **We won this match with 67-66.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20second%20match.PNG">
 
 ### Q23 
-#### In the third match, we played in qualification match 23 against teams 3796H and 9447D while allied with 31617Z. We won that match 115-96. 
+In the third match, we played on the red alliance and went against teams 3796H and 9447D while allied with 31617Z. **We won this match with 115-96.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20third%20match.PNG">
 
 ### Q28 
-#### In the fourth match, we played in qualification match 28 against teams 99322A and 9447P while being allied with 9447V. We won that match 117-88 
+In the fourth match, we played on the blue alliance and went against teams 99322A and 9447P while being allied with 9447V. **We won this match with 117-88.** 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fourth%20match.PNG">
 
 ### Q40 
-#### In the fifth match, we played in qualification match 40 against teams 1660B and 26468A while being allied with 26468B. We won that match 116-74 
+In the fifth match, we played on the blue alliance and went against teams 1660B and 26468A while being allied with 26468B. **We won this match with 116-74.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fifth%20match.PNG">
 
 ### Q52
-#### In the sixth match, we played in qualification match 52 against teams 9623T and 8686M while being paired with 3796G. We won that match 125-88 
+In the sixth match, we played on the red alliance and went against teams 9623T and 8686M while being paired with 3796G. **We won this match with 125-88.** 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20sixth%20match.PNG">
 
 ### We finished 5th in qualifiers with 11 WPs, 16 APs, 503 SPs, and a final record of 5-0-1 
 
 ### (Alliance Selections) We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
 
-### R16 7-1 
-#### We played in the round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29, so we qualified for the quarter-finals. 
+### R16 7-1 (Rounds of 16)
+We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20seventh%20match.PNG">
 
-### QF 4-1
-#### We played in the round of 16 match 7 against teams 3796G and 1660A. We won that game 122-29, so we qualified for the quarter-finals. 
+### QF 4-1 (Quarterfinals) 
+We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20eighth%20match.PNG">
 
-### SF 2-1 
-#### We played in semifinal match 2 against teams 44252A and 9447G. We lost that match 138-63. 
+### SF 2-1 (Semifinals)
+We played on the red alliance and went against teams 44252A and 9447G. **We lost this match with 138-63.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20Ninth%20match.PNG">
  
 
