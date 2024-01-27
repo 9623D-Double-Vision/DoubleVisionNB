@@ -274,53 +274,74 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Elliott
 - [x] Rhett
 
-#### In the first match, we played in qualification match 2 on the blue alliance and went against 52455C and 93400A while being paired with 31055B. We won that match 129-83
+### Q2
+In the first match, we played on the blue alliance and went against 52455C and 93400A while allied with 31055B. **We won this match with 129-83.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20first%20match.PNG">
 
-#### In the second match, we played in a qualification match 6 on the red alliance and went against 93400A and 40976A while being allied with 93400B. We won that match 127-93
+### Q6
+In the second match, we played on the red alliance and went against 93400A and 40976A while allied with 93400B. **We won this match with 127-93.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20second%20match.PNG">
 
-#### In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while being allied with 3289A. Even though we lost 53-45, we still got WP because of 9623T DQd.
+### Q9
+In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while allied with 3289A. **We lost this match with 53-45, but still got the Auton WP because 9623T DQd.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/beaufort%20third%20match.PNG">
 
-#### The fourth match we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while being allied with 3289A
+### Q12
+In the fourth match, we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while allied with 3289A.
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fourth%20match.PNG">
 
-#### The fifth match we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while being allied with 31055B; we won that match 113 to 58
+### Q17
+In the fifth match, we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while allied with 31055B. **We won this match with 113-58.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fifth%20match.PNG">
 
-#### The sixth match we played in a qualification match 20 on the red alliance, and went against teams 40976B and 31055A while being allied with 9623W
+### Q20
+In the sixth match, we played in a qualification match 20 on the red alliance, and went against teams 40976B and 31055A while allied with 9623W.
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufor%20sixth%20match.PNG"> 
 
-#### Alliance Selections 
-We finished first with 13 WPs, 44 APs, and 378 SPs, and we had a final record of 6-0. We selected 52455A Hyper resolution, completed with 8 WPs, 24 APs, 249 SPs, and a final record of 4-2, but placed first in the skills competition.
+### Alliance Selections 
+We finished first with 13 WPs, 44 APs, and 378 SPs, and we had a final record of 6-0. We selected 52455A Hyper Resolution, completed with 8 WPs, 24 APs, 249 SPs, and a final record of 4-2, but placed first in the skills competition.
 
-#### Semifinals 1-1 
-We played on the red alliance and went against teams 93400A and 9623S, and we won that match 101-48
+### Semifinals 1-1 
+We played on the red alliance and went against teams 93400A and 9623S. **We won this match 101-48.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Semifinals.PNG">
 
-#### Finals 1-1 
-We played on the red alliance and went against teams 31055B and 9623W, and we won that match 160-62, meaning we qualified for State Championships and finished 8-0
+### Finals 1-1 
+We played on the red alliance and went against teams 31055B and 9623W. **We won this match with 160-62.** 
+
+### End Result
+We were able to get through the tournament 8-0 and earning the Tournament Champion award, granting us a qualification to the State Championship.
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
 
 # 11/12/23
 
-
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
 
 
 
 # 11/27/23 - 
+
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+
 Rhett tried to fix seg fault issues in code and learned how to program individually addressable neopixels. Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot's CAD file in inventor to fit the specifications of our robot. The 3d face image was imported into a laser cutter, which cut the polycarbonate into the right shape. We could attach and test the wings after the laser cutter cut them successfully.
 
 # 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
 
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+
 ### Q1
-#### In the first match, we played in qualification match 1 against teams 29485B and 3796K while allied with 29073A. We tied that match 91-91. 
+In the first match, we played in qualification match 1 against teams 29485B and 3796K while allied with 29073A. We tied that match 91-91.
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20first%20match.PNG">
 
 ### Q10 
@@ -505,45 +526,45 @@ Delrin has interesting thermal properties; it doesn't have a set melting tempera
 - [x] Whilden
 
 ### Q3
-In the first match, we played in qualification match 3 against teams 9447G and 88310W while being allied with 3859S. We lost this match 92-72.
+In the first match, we played on the red alliance against teams 9447G and 88310W while being allied with 3859S. **We lost this match with 92-72.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20first%20match.PNG">
 
 ### Q5
-In the second match, we played on the blue alliance against teams 9623S and 9623W whilst being allied with 88310U. We lost this match 86-72 
+In the second match, we played on the blue alliance against teams 9623S and 9623W whilst being allied with 88310U. **We lost this match with 86-72** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20second%20match.PNG">
 
 ### Q11 
-In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. We won 108-45
+In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. **We won this match with 108-45**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20third%20match.PNG">
 
 ### Q15 
-In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. We won 94-64.
+In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. **We won this match with 94-64.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fourth%20match.PNG">
 
 ### Q17 
-In the fifth match we played on the blue alliance against teams 3859S and 3859E whilst being allied with 9623T. We won 126-60
+In the fifth match we played on the blue alliance against teams 3859S and 3859E whilst being allied with 9623T. **We won this match with 126-60**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fifth%20match.PNG">
 
 ### Q23 
-In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. We won 182-72
+In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. **We won this match with 182-72**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20sixth%20match.PNG">
 
 ### Q25 
-In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. We won 106-47
+In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. **We won this match with 106-47**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20seventh%20match.PNG">
 
 ### Q29 
-In the eighth match we played against teams 9447W and 31055A whilst being allied with 31055B. We won that match 142-112
+In the eighth match we played on the blue alliance against teams 9447W and 31055A whilst being allied with 31055B. **We won this match with 142-112**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eighth%20match.PNG">
 
 ### Final Qualifying Standings 
-We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs 
+We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs. 
 
 ### Alliance Selections 
-For alliance selections we were selected by team 9623W (WALL-E) who were ranked 2nd with 17 WPs, 48 APs, and 528 SPs and a final record of 7-1.
+For alliance selections we were selected by team 9623W (WALL-E) who were ranked 2nd with 17 WPs, 48 APs, and 528 SPs and a final record of 7-1. We had good team chemistry and had worked well together during our qualifiers. 
 
 ### QF 3-1
-In the first elimination match, we played on the red alliance against teams 3859S and 71002A. We won that match 127-28
+In the first elimination match, we played on the red alliance against teams 3859S and 71002A. We won this match with 127-28
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20ninth%20match.PNG">
 
 ### SF 2-1 
@@ -560,16 +581,20 @@ In the final, we played on the blue alliance against teams 9623S and 9447G. We l
 ## **Attendance**
 - [x] Elliott
 - [x] Rhett
-- [ ] Whilden 
+- [x] Whilden 
 - [x] Noly
 
 ## **Goals for Today**
 - [ ] Finish "5 Ball Rush Auton"
 - [ ] Test "Close Side Win Point Auton"
-- [ ] Design, Test and Finish Hang
+- [x] Design, Test and Finish Hang
 
 
 The "5 Ball Rush Auton" aims to take control of the 2 triballs easily captured by either team this early on. 
 
 Usually we CAD our design before we think about building it, but we chose to take the trial and error approach for our hanging mech. Inventor is difficult to use with joints, and our hang bar is based strongly on our joints. Any model we would make would be inaccurate, difficult to add, and a waste of time. It would be much easier for us to start with something and adjust it as we go.
+
+## **Entry Recap**
+We were able to build and test a functional hang mechanism that we will further stress test at the Clemson comp.
+
 
