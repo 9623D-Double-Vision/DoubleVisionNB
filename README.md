@@ -144,10 +144,10 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9058.JPG" height = "400">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9059.JPG">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9060.JPG">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9061.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9059.JPG" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9060.JPG" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9061.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG" height = "400">
  
 
 # 5/24/23
@@ -156,20 +156,20 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 - [x] Elliott
 
 Elliott started designing a new drive train, including a 6-motor, quad 4-inch omni wheel setup, and two flex wheels located in the middle of the omni wheels setup for easier gripping and traversing the middle bar efficiently. It has a gear ratio. Of 36:72, it totaled 300rpm.
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/front_view_dt_lifted_middle.png">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/drivetrain_lifted_middle.png">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/dt_corner_lifted_middle.png">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/front_view_dt_lifted_middle.png" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/drivetrain_lifted_middle.png" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/dt_corner_lifted_middle.png" height = "400">
 
 # 5/30/23
 
 ## **Attendance**
 - [x] Elliott
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg">
-<img src=https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9521.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9523.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg" height = "400">
+<img src=https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9521.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9523.jpg" height = "400">
 
 
 
@@ -182,7 +182,7 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch om
 - [x] Rhett
 
 Elliott modeled a 45-degree angled intake for the robot. 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963%20(1).jpg" height = "500">
 
 # 9/12/23
 
@@ -190,11 +190,11 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Elliott
 - [x] Rhett
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0990.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0991.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0992.jpg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0993.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0990.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0991.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0992.jpg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0993.jpg" height = "400">
 
 # 9/14/23
 
