@@ -538,7 +538,7 @@ The wedge had to be bent because Elliott's idea for the plow was for it to do th
 + Act as a defensive wedge to temporarily prop up other people's robots so they become immobile for a couple of seconds without getting DQed for entanglement
 
 Delrin has interesting thermal properties; it doesn't have a set melting temperature because it's a plastic. Instead, it has a Vicat Softening point at around 145-150 degrees Celsius (293-302 Fahrenheit). Because we want to bend the Delrin, we must be careful to reach exactly 130 degrees Celsius (266 Fahrenheit) and not go over because this could cause it to warp and bend in undesirable ways. Elliott accomplished this by using a heat gun, vices, and wooden blocks to hold it in the desirable position.  
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Poly%20wedge.jpeg" height = "500">
 
 # 1/20/24 (Lowcountry Winter Qualifier HS Only)
 
