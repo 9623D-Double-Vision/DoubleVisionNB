@@ -429,10 +429,8 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
 - [ ] Finished CAD for new robot with catapult instead of flywheel
 - [ ] Started coding for new wings and pneumatics
 
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png" height = "300">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg" height = "300">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA_dark.jpeg" height = "300">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg" height = "300">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png" height = "300"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg" height = "300">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA_dark.jpeg" height = "300"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg" height = "300">
 
 
 # Winter 2 Week Break 
