@@ -499,9 +499,9 @@ We played on the red alliance and went against teams 9880B and 9880A. **We lost 
 
 After the disappointing performance of the catapult at the J.L Mann competition, we decided to remove it and switch to a slip gear kicker. We also decided to add guides using laser-cut polycarbonate for the intake and the wheels to get over the middle bar. We utilized our robot's center of gravity by bringing it over the bar before the wheels make contact, generating a smoother, more efficient crossover.
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2.jpeg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_1.jpeg">
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_2.jpeg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2.jpeg" height = "400"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_2.jpeg" height = "400">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/SLAPCOCKV2_1.jpeg" height = "400">
+
 
 # 1/16/24
 
