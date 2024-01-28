@@ -372,7 +372,8 @@ In the sixth match, we played on the red alliance and went against teams 9623T a
 
 ### We finished 5th in qualifiers with 11 WPs, 16 APs, 503 SPs, and a final record of 5-0-1 
 
-### (Alliance Selections) We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
+### (Alliance Selections) 
+We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
 
 ### R16 7-1 (Rounds of 16)
 We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
@@ -395,9 +396,9 @@ We played on the red alliance and went against teams 44252A and 9447G. **We lost
 - [x] Rhett
 - [x] Whilden
 
-Goals for today
-+ ~Finish CAD for a new robot with a catapult instead of a flywheel.~
-+ finish programming for wings and pneumatics
+## Goals for Today
+- [x] Finish CAD for a new robot with a catapult instead of a flywheel
+- [ ] Finish programming for wings and pneumatics
   
 # 12/13/23
 
@@ -424,12 +425,14 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
 - [x] Rhett
 - [x] Whilden
 
-+ finished CAD for new robot with catapult instead of flywheel
-+ started coding for new wings and pneumatics
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA_dark.jpeg">
- <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg">
+## **Goals for Today**
+- [ ] Finished CAD for new robot with catapult instead of flywheel
+- [ ] Started coding for new wings and pneumatics
+
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA.png" height = "300">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA1.jpeg" height = "300">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/MINICATA_dark.jpeg" height = "300">
+ <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Desktop_Screenshot_2023.12.21_-_16.07.24.91.jpeg" height = "300">
 
 
 # Winter 2 Week Break 
@@ -443,34 +446,49 @@ After testing the new flywheel, Elliott decided it was too big and lost too much
 - [x] Whilden
 
 ## **Goals for Today**
-- [ ] tune PADs
-- [ ] finish wiring new robot
+- [x] Tune PADs
+- [x] Finish wiring new robot
 
 # 1/6/24 (Greenville Mann Robotics Uproar in the Upstate Competition)
  
-#### The first match we played in qualification match Q7 on the blue alliance and went against 86400H and 77240G while being allied with 9880D and won that match 77-25
+### Q7 
+
+In the first match, we played on the blue alliance and went against 86400H and 77240G while being allied with 9880D. **We won this match with 77-25.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/game%201%20jl%20man.PNG">
 
-#### The second match we played in qualification match Q26 on the red alliance and went against 60708B and 9623W while being allied with 9880C and won that match 51-41
+### Q26 
+In the second match, we played on the red alliance and went against 60708B and 9623W while being allied with 9880C. **We won this match with 51-41.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/2nd%20game%20JL%20mann.PNG">
 
-#### In the third match, we played in qualification match Q38 on the blue alliance and went against 85986A and 40994F while being allied with 1660A, and we lost that match 52-49
+### Q38
+In the third match, we played on the blue alliance and went against 85986A and 40994F while being allied with 1660A. **We lost this match with 52-49.**
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG">
 
-#### The fourth match we played in qualification match Q53 on the red alliance and went against 98791C and 49631B while being allied with 3796B and won that match 175-5
+### Q53
+In the fourth match, we played on the red alliance and went against 98791C and 49631B while being allied with 3796B. **We won this match with 175-5.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG">
 
-#### Fifth match we played in qualification match Q64 on the red alliance and went against 3796J and 9880B whilst being allied with 97625E and lost that match 58-72 
+### Q64
+In the fifth match, we played on the red alliance and went against 3796J and 9880B whilst being allied with 97625E. **We lost this match with 58-72.** 
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/5th%20game%20jl%20man.PNG">
 
-#### Sixth match we played in qualification match Q72 on the red alliance and went against 60708A and 86400T whilst being allied with 49631 and lost that match 67-77 
+### Q72 
+In the sixth match, we played on the red alliance and went against 60708A and 86400T whilst being allied with 49631. **We lost this match with 67-77.** 
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG">
 
-#### At the end of Qualification matches, we finished 3-3 and placed 32nd in the rankings with 6 WP, an OPR of 43.4, and a DPR of -4.4
+### At the end of Qualification matches, we finished 3-3 and placed 32nd in the rankings with 6 WP, an OPR of 43.4, and a DPR of -4.4
 
-## Knockout Round Alliance Selections 
-We got selected by team 9623S, and we played in R16 6-1 vs 9880B and 9880A, we ended up losing 93-80
+### Alliance Selections 
+We got selected by team 9623S. They finished 14th with a record of of 4-2-0 and placed 8th in skills.
+
+### R16 6-1
+We played on the red alliance and went against teams 9880B and 9880A. **We lost this match with 93-80.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
 
