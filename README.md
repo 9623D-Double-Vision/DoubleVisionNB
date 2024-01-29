@@ -141,7 +141,7 @@ Elliott started adding a new drive train, which included lifted wheels to the ol
 - [x] Elliott
 
 Elliott modeled the catapult more and some arm bracing for the catapult for support.  
-     
+
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9058.JPG" height = "400">
@@ -166,7 +166,7 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch om
 ## **Attendance**
 - [x] Elliott
 
-Elliott built the CADed prototype.
+
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9518.jpg" height = "300"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9519.jpg" height = "300"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9520.jpg" height = "300">
 
@@ -193,7 +193,6 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Elliott
 - [x] Rhett
 
-Elliott CADed the robot
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0963.jpg" height = "250"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0990.jpg" height = "250"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0991.jpg" height = "250"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0992.jpg" height = "250"> <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_0993.jpg" height = "250">
 
