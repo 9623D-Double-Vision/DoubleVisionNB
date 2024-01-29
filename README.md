@@ -119,7 +119,7 @@ After analyzing FRC team 2910's robot Elliott started 3D Modeling a bot modified
 
 Elliott researched a way to transport and hold the triballs; he found a claw that uses a chain and sprocket mechanism that connected to shafts with flex wheels on them to be able to intake the triballs faster as well as have a better grip so the robot can hold the triballs more effectively when at high speeds or taking sharp turns that when using a standard claw would cause the triball to fling escape the control of the robot.
 
-# 5/2/23 
+# 5/2/23 - Claw Mech
 
 ## **Attendance**
 - [x] Elliott
@@ -128,14 +128,14 @@ Elliott tried to figure out different positions and places to place the claw on 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG" height="400" width="400">
 
-# 5/4/23
+# 5/4/23 - Drive Train Design
 
 ## **Attendance**
 - [x] Elliott
 
 Elliott started adding a new drive train, which included lifted wheels to the old drive train, which was unable to traverse the middle bar, so the added height allowed the robot to access the other side of the field without having to go through the neutral zone, saving time during the match.
 
-# 5/8/23 
+# 5/8/23 - Catapult Design
 
 ## **Attendance**
 - [x] Elliott
@@ -151,7 +151,7 @@ Elliott modeled the catapult more and some arm bracing for the catapult for supp
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9062.JPG" height = "400">
  
 
-# 5/24/23
+# 5/24/23 - Drive Train Design Day 2
 
 ## **Attendance**
 - [x] Elliott
@@ -177,7 +177,7 @@ Elliott started designing a new drive train, including a 6-motor, quad 4-inch om
 
 # 4 month break for summer and beginning of the next VRC season 
 
-# 9/8/23
+# 9/8/23 - Intake CAD
 
 ## **Attendance**
 - [x] Elliott
@@ -619,7 +619,7 @@ Usually we CAD our design before we think about building it, but we chose to tak
 ## **Entry Recap**
 We were able to build and test a functional hang mechanism that we will further stress test at the Clemson comp.
 
-# **1/27/24** Ice Scream Social
+# **1/27/24** (Ice Scream Social)
 
 ## **Attendance**
 - [x] Elliott
