@@ -140,7 +140,8 @@ Elliott started adding a new drive train, which included lifted wheels to the ol
 ## **Attendance**
 - [x] Elliott
 
-Elliott modeled the catapult more and some arm bracing for the catapult for support.       
+Elliott modeled the catapult more and some arm bracing for the catapult for support.  
+     
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9007.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9057.JPG" height = "400">
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_9058.JPG" height = "400">
@@ -618,5 +619,31 @@ Usually we CAD our design before we think about building it, but we chose to tak
 
 ## **Entry Recap**
 We were able to build and test a functional hang mechanism that we will further stress test at the Clemson comp.
+
+# **1/27/24** Ice Scream Social
+
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden 
+- [ ] Noly
+
+
+# **1/29/24**
+
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden 
+- [x] Noly
+
+## **Goals for Today**
+- [ ] Fix Battery Mount
+- [ ] Make New Kicker Stand
+- [ ] Fix Hang
+
+
+
+
 
 
