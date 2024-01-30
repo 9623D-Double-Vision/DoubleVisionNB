@@ -217,11 +217,13 @@ Elliott modeled a 45-degree angled intake for the robot.
 
 # 9/18/23
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beta%201.3.1%20Screenshot%202023.09.16%20-%2012.10.31.32.png">
+
 ## **Attendance**
 - [x] Elliott
 - [x] Rhett
 
 # 9/21/23
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Snapchat-1146381499.jpg">
 
 ## **Attendance**
 - [x] Elliott
@@ -234,18 +236,28 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Rhett
 
 # 9/25/23
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1077.JPG">
 
 ## **Attendance**
 - [x] Elliott
 - [x] Rhett
 
 # 9/27/23
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1078.JPG">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1081.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1082.jpg">
 
 ## **Attendance**
 - [x] Elliott
 - [x] Rhett
 
 # 9/29/23
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1106.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1111.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1112.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1113.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1114.jpg">
+<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_1115.jpg">
 
 ## **Attendance**
 - [x] Elliott
