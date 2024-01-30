@@ -642,7 +642,18 @@ We were able to build and test a functional hang mechanism that we will further 
 - [ ] Fix Hang
 
 
+# **1/30/24**
 
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden 
+- [x] Noly
+
+## **Goals for Today**
+- [ ] Connecting Pneumatic Tank - Cable Management
+- [ ] Test Pneumatics
+- [ ] Add Distance Senor under Triball Holder - Recognized how far 
 
 
 
