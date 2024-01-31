@@ -412,7 +412,7 @@ In the sixth match, we played on the red alliance and went against teams 9623T a
 ### (Alliance Selections) 
 We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
 
-### R16 7-1 (Rounds of 16)
+### 16-7-1 (Rounds of 16)
 We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20seventh%20match.PNG">
 
@@ -522,7 +522,7 @@ In the sixth match, we played on the red alliance and went against 60708A and 86
 ### Alliance Selections 
 We got selected by team 9623S. They finished 14th with a record of of 4-2-0 and placed 8th in skills.
 
-### R16 6-1
+### 16-6-1
 We played on the red alliance and went against teams 9880B and 9880A. **We lost this match with 93-80.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
@@ -616,7 +616,7 @@ In the seventh match we played on the blue alliance against teams 88310V and 385
 In the eighth match we played on the blue alliance against teams 9447W and 31055A whilst being allied with 31055B. **We won this match with 142-112**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eighth%20match.PNG">
 
-### Final Qualifying Standings 
+### Final Qualification Standings 
 We finished 3rd in overall rankings with a final record of 6-2 in qualifying with 16 WPs, 24 APs, and 544 SPs. 
 
 ### Alliance Selections 
@@ -663,6 +663,40 @@ We were able to build and test a functional hang mechanism that we will further 
 - [x] Rhett
 - [x] Whilden 
 - [ ] Noly
+
+### Q13
+In the first match, we played on the red alliance and went against teams 4825A and 98648D while allied with 98648C. **We won this match 83-53.**
+
+### Q20
+In the second match, we played on the blue alliance and went against teams 9880C and 15545A while allied with 8926W. **We won this match 121-30.**
+
+### Q30
+In the third match, we played on the blue alliance and went against teams 98791B and 98791C while allied with 9447A. **We won this match 142-73.**
+
+### Q52
+In the fourth match, we played on the blue alliance and went against 9447P and 77240F while allied with 86400A. **We won this match 123-34.**
+
+### Q60
+In the fifth match, we played on the red alliance and went against 415N and 9447G while allied with 97671B. **We lost this match 133-79.**
+
+### Q69
+In the sixth match, we played on the red alliance and went against 9880D and 1157C while allied with 3796E. **We won this match 128-37.**
+
+### Final Qualification Standings
+
+### Alliance Selections
+
+### 16-8.1
+In the seventh match, we played on the blue alliance and went against 3796D and 3796H. **We won this match 140-119.**
+
+### QF 4.1
+In the eighth match, we played on the blue alliance and went against 86400C and 86400T. **We won this match *102*-47.**
+
+### SF 2.1
+In the ninth match,
+
+### F1
+In the tenth match, 
 
 
 # **1/29/24**
