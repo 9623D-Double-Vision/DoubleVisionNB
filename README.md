@@ -4,27 +4,27 @@ VRC HS Team 9623D Double Vision's Digital Engineering Notebook
 
 ### **Elliott McAninch**
 
- 18 years old - 12th Grade - **Builder**, **Driver**, and **CAD/3D Designer** - Elliott has 9 years of experience in robotics, 6 of those competing in the VEX Robotics Competition
+ 18 years old - 12th Grade - **Builder**, **Driver**, and **CAD/3D Designer** - Elliott has 9 years of experience in robotics, 6 of those competing in VEX Robotics.
 
 ### **Rhett Blanton**
 
- 17 years old - 12th Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in the VEX Robotics Competition
+ 17 years old - 12th Grade - **Programmer**, **Skills Route Designer**, and **Drive Team Leader** - Rhett has 3 years of experience in VEX Robotics.
 
 ### **Whilden Wood**
 
- 14 years old - 9th Grade - **Secondary Notebook Writer**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics 
+ 14 years old - 9th Grade - **Secondary Notebook Writer**, **Elimination Pair Scouter**, **Match Loader** - Whilden has 1 year of experience in VEX Robotics. 
 
-### **Noly Dismuke**
+### **Nolynn (Noly) Dismuke**
 
-18 years old - 12th grade - **Main Notebook Writer**- Noly has 3 years of experience in VEX Robotics
+18 years old - 12th grade - **Main Notebook Writer**- Noly has 3 years of experience in VEX Robotics.
 
-3 of our members contribute to the drive team during the competition. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
+Elliott, Rhett, and Whilden are on the drive team during competitions. Elliott does not attend West Ashley High School, however he takes part in the robotics program.
 
 # Game Explanation
 
 This year's competition is titled VEX: Over-Under
 
-The field will be divided horizontally into two halves; however, during the match, there are two Alliance Offensive Zones corresponding to the color of the Alliance Goal. There are two goals each being assigned one alliance color, as well as four Match Loading Zones, two being assigned to each alliance color. There are 2 elevation structures, each corresponding with a color to indicate alliance use. Teams will be tasked with scoring triballs from the field and the alliance match loading zone. Triballs are scored in your alliance goal for 5 points each. They can also be scored by remaining in your alliance's offensive zone at the end of the match for 2 points each. There are 2 red and 2 blue triballs each corresponding to an alliance, they can be scored in any alliance goal or zone. In the last 30 seconds of the match, robots will be allowed to elevate off the ground while remaining in contact with their alliance elevation structure. Elevation points are given based on elevation height and opposing teams' elevation height. 
+The field will be divided horizontally into two halves; however, during the match, there are two Alliance Offensive Zones corresponding to the color of the Alliance Goal. There are two goals, each being assigned one alliance color. There are also four Match Loading Zones, two being assigned to each alliance color. There are 2 elevation structures, each corresponding with a color to indicate alliance use. Teams will be tasked with scoring triballs from the field and the alliance match loading zone. Triballs are scored in your alliance goal for 5 points each. They can also be scored by remaining in your alliance's offensive zone at the end of the match for 2 points each. There are 2 red and 2 blue triballs each corresponding to an alliance and they can be scored in any alliance goal or zone. In the last 30 seconds of the match, robots will be allowed to elevate off the ground while remaining in contact with their alliance elevation structure. Elevation points are given based on elevation height and opposing teams' elevation height. 
 ![Alt Text](https://vrc-kb.recf.org/hc/article_attachments/14498622602519)
 ![Alt Text](https://www.vexrobotics.com/media/wysiwyg/Side_View_1.png)
 The match will start with a 15-second autonomous period followed by a driver-controlled period lasting a minute and 45 seconds. All game rules are in effect during both the autonomous period and the driver-controlled period, though manually driving the bot using the controller is not allowed during the autonomous period. Each alliance is given 2 colored triballs corresponding to their alliance color.
@@ -87,8 +87,20 @@ The Triballs are a slightly rounded triangular pyramidal shape, also known as a 
 
 Robots can move Triballs into their alliance's Goal or offensive zone to score points during the match. Each robot can only possess one Triball at a time.
 
-### Criteria for optimally scoring Triballs
-- 
+### Important Rules
+We always look to the manual to ensure our strategy is within the rules of the game. Here are some rules that inspired and allowed our strategies.
+
+**SG6**
+- In SG6, it specifies a lot of the limits when it comes to match loading. Match loading is an essential part to our strategy, so we consulted this rule to ensure our strategies were within the rules of the game. We focused a lot on SG6 2 as it addressed the moves closest to our plans. It focuses on addressing triballs placed directly onto the robot rather than the match loading zone. This rule allowed us to focus more on launcher designs rather than intake designs.
+- In SG6 2a, it provides the limits regarding match loading. It specifies that "The Robot must be contacting the Match Load Zone or the Match Load Bar." This allows us to sit outside of the official Match Load Zone and fire triballs as long as we are connected to the Match Load Bar.
+
+**SG7**
+
+In SG7, it addresses the limits to the possession of triballs. Unlike last year's limit of 3 discs, we are only allowed to possess 1 triball at a time. This will limit how many triballs a team can transport and could potentially render mechanisms on the robot useless if one gets caught in the bot.
+  
+
+
+
 
 # Dated Entries
 
@@ -312,32 +324,32 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Rhett
 
 ### Q2
-In the first match, we played on the blue alliance and went against 52455C and 93400A while allied with 31055B. **We won this match with 129-83.**
+In the first match, we played on the blue alliance and went against 52455C and 93400A while allied with 31055B. **We won this match 129-83.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20first%20match.PNG">
 
 ### Q6
-In the second match, we played on the red alliance and went against 93400A and 40976A while allied with 93400B. **We won this match with 127-93.**
+In the second match, we played on the red alliance and went against 93400A and 40976A while allied with 93400B. **We won this match 127-93.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20second%20match.PNG">
 
 ### Q9
-In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while allied with 3289A. **We lost this match with 53-45, but still got the Auton WP because 9623T DQd.**
+In the third match, we played in qualification match 9 on the blue alliance and went against 9623T and 9623S while allied with 3289A. **We lost this match 53-45,** but still got the Auton WP because 9623T DQd.
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/beaufort%20third%20match.PNG">
 
 ### Q12
-In the fourth match, we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while allied with 3289A. **We won this match with 82-26.**
+In the fourth match, we played in a qualification match 12 on the blue alliance and went against 52455B and 40976A while allied with 3289A. **We won this match 82-26.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fourth%20match.PNG">
 
 ### Q17
-In the fifth match, we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while allied with 31055B. **We won this match with 113-58.**
+In the fifth match, we played in qualification match 17 on the red alliance, and went against teams 9623S and 52455B while allied with 31055B. **We won this match 113-58.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20fifth%20match.PNG">
 
 ### Q20
-In the sixth match, we played on the red alliance and went against teams 40976B and 31055A while allied with 9623W. **We won this match with 111-73.**
+In the sixth match, we played on the red alliance and went against teams 40976B and 31055A while allied with 9623W. **We won this match 111-73.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufor%20sixth%20match.PNG"> 
 
@@ -345,12 +357,12 @@ In the sixth match, we played on the red alliance and went against teams 40976B 
 We finished first with 13 WPs, 44 APs, and 378 SPs, and we had a final record of 6-0. We selected 52455A Hyper Resolution, completed with 8 WPs, 24 APs, 249 SPs, and a final record of 4-2, but placed first in the skills competition.
 
 ### SF 1-1 (Semifinals)
-We played on the red alliance and went against teams 93400A and 9623S. **We won this match with 101-48.**
+We played on the red alliance and went against teams 93400A and 9623S. **We won this match 101-48.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Semifinals.PNG">
 
 ### F 1-1 (Finals)
-We played on the red alliance and went against teams 31055B and 9623W. **We won this match with 160-62.** 
+We played on the red alliance and went against teams 31055B and 9623W. **We won this match 160-62.** 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Beaufort%20Finals%20match.PNG">
 
@@ -374,7 +386,7 @@ We were able to get through the tournament 8-0 and earning the Tournament Champi
 - [x] Elliott
 - [x] Rhett
 
-Rhett tried to fix seg fault issues in code and learned how to program individually addressable neopixels. Elliott exported the 3d face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot's CAD file in inventor to fit the specifications of our robot. The 3d face image was imported into a laser cutter, which cut the polycarbonate into the right shape. We could attach and test the wings after the laser cutter cut them successfully.
+Rhett tried to fix seg fault issues in code and learned how to program individually addressable neopixels. Elliott exported the 3D face image of the custom polycarbonate extending wings. This custom polycarbonate was created in our current robot's CAD file in inventor to fit the specifications of our robot. The 3D face image was imported into a laser cutter, which cut the polycarbonate into the right shape. We could attach and test the wings after the laser cutter cut them successfully.
 
 # 12/2/23 Cocky's Cola Over Under Tournament MS/HS 
 
@@ -383,28 +395,28 @@ Rhett tried to fix seg fault issues in code and learned how to program individua
 - [x] Rhett
 
 ### Q1
-In the first match, we played on the blue alliance and went against teams 29485B and 3796K while allied with 29073A. **We tied that match 91-91.**
+In the first match, we played on the blue alliance and went against teams 29485B and 3796K while allied with 29073A. **We tied this match 91-91.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20first%20match.PNG">
 
 ### Q10 
-In the second match, we played on the red alliance and went against teams 44252R and 9447G while being allied with 1660A. **We won this match with 67-66.** 
+In the second match, we played on the red alliance and went against teams 44252R and 9447G while being allied with 1660A. **We won this match 67-66.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20second%20match.PNG">
 
 ### Q23 
-In the third match, we played on the red alliance and went against teams 3796H and 9447D while allied with 31617Z. **We won this match with 115-96.** 
+In the third match, we played on the red alliance and went against teams 3796H and 9447D while allied with 31617Z. **We won this match 115-96.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20third%20match.PNG">
 
 ### Q28 
-In the fourth match, we played on the blue alliance and went against teams 99322A and 9447P while being allied with 9447V. **We won this match with 117-88.** 
+In the fourth match, we played on the blue alliance and went against teams 99322A and 9447P while being allied with 9447V. **We won this match 117-88.** 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fourth%20match.PNG">
 
 ### Q40 
-In the fifth match, we played on the blue alliance and went against teams 1660B and 26468A while being allied with 26468B. **We won this match with 116-74.** 
+In the fifth match, we played on the blue alliance and went against teams 1660B and 26468A while being allied with 26468B. **We won this match 116-74.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20fifth%20match.PNG">
 
 ### Q52
-In the sixth match, we played on the red alliance and went against teams 9623T and 8686M while being paired with 3796G. **We won this match with 125-88.** 
+In the sixth match, we played on the red alliance and went against teams 9623T and 8686M while being paired with 3796G. **We won this match 125-88.** 
  <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20sixth%20match.PNG">
 
 ### We finished 5th in qualifiers with 11 WPs, 16 APs, 503 SPs, and a final record of 5-0-1 
@@ -413,15 +425,15 @@ In the sixth match, we played on the red alliance and went against teams 9623T a
 We were selected by team 3796K (Roomba), who finished 3rd with a record of 5-0-1 and placed 5th in skills
 
 ### 16-7-1 (Rounds of 16)
-We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
+We played on the red alliance and went against teams 3796G and 1660A. **We won this match 122-29**, so we qualified for the quarter-finals. 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20seventh%20match.PNG">
 
 ### QF 4-1 (Quarterfinals) 
-We played on the red alliance and went against teams 3796G and 1660A. **We won this match with 122-29**, so we qualified for the quarter-finals. 
+We played on the red alliance and went against teams 26468C and 99322A. **We won this match 107-48.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20eighth%20match.PNG">
 
 ### SF 2-1 (Semifinals)
-We played on the red alliance and went against teams 44252A and 9447G. **We lost this match with 138-63.** 
+We played on the blue alliance and went against teams 44252A and 9447G. **We lost this match 138-63.** 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Cockys%20Ninth%20match.PNG">
  
 
@@ -498,22 +510,22 @@ In the second match, we played on the red alliance and went against 60708B and 9
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/2nd%20game%20JL%20mann.PNG">
 
 ### Q38
-In the third match, we played on the blue alliance and went against 85986A and 40994F while being allied with 1660A. **We lost this match with 52-49.**
+In the third match, we played on the blue alliance and went against 85986A and 40994F while being allied with 1660A. **We lost this match 52-49.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/Capture.PNG">
 
 ### Q53
-In the fourth match, we played on the red alliance and went against 98791C and 49631B while being allied with 3796B. **We won this match with 175-5.**
+In the fourth match, we played on the red alliance and went against 98791C and 49631B while being allied with 3796B. **We won this match 175-5.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/4th%20game%20jl%20man.PNG">
 
 ### Q64
-In the fifth match, we played on the red alliance and went against 3796J and 9880B whilst being allied with 97625E. **We lost this match with 58-72.** 
+In the fifth match, we played on the red alliance and went against 3796J and 9880B whilst being allied with 97625E. **We lost this match 72-58.** 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/5th%20game%20jl%20man.PNG">
 
 ### Q72 
-In the sixth match, we played on the red alliance and went against 60708A and 86400T whilst being allied with 49631. **We lost this match with 67-77.** 
+In the sixth match, we played on the red alliance and went against 60708A and 86400T whilst being allied with 49631. **We lost this match 77-67.** 
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/6th%20game%20jl%20mann.PNG">
 
@@ -523,7 +535,7 @@ In the sixth match, we played on the red alliance and went against 60708A and 86
 We got selected by team 9623S. They finished 14th with a record of of 4-2-0 and placed 8th in skills.
 
 ### 16-6-1
-We played on the red alliance and went against teams 9880B and 9880A. **We lost this match with 93-80.**
+We played on the red alliance and went against teams 9880B and 9880A. **We lost this match 93-80.**
 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/r16%20jl%20mann.PNG">
 
@@ -585,7 +597,7 @@ Delrin has interesting thermal properties; it doesn't have a set melting tempera
 - [x] Whilden
 
 ### Q3
-In the first match, we played on the red alliance against teams 9447G and 88310W while being allied with 3859S. **We lost this match with 92-72.**
+In the first match, we played on the red alliance against teams 9447G and 88310W while being allied with 3859S. **We lost this match 92-72.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20first%20match.PNG">
 
 ### Q5
@@ -593,11 +605,11 @@ In the second match, we played on the blue alliance against teams 9623S and 9623
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20second%20match.PNG">
 
 ### Q11 
-In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. **We won this match with 108-45**
+In the third match, we played on the red alliance against teams 30155B and 71002A whilst being allied with 88310W. **We won this match 108-45**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20third%20match.PNG">
 
 ### Q15 
-In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. **We won this match with 94-64.**
+In the fourth match, we played on the red alliance against teams 31055A and 88310U whilst being allied with 9623S. **We won this match 94-64.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fourth%20match.PNG">
 
 ### Q17 
@@ -605,15 +617,15 @@ In the fifth match we played on the blue alliance against teams 3859S and 3859E 
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20fifth%20match.PNG">
 
 ### Q23 
-In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. **We won this match with 182-72**
+In the sixth match we played on the red alliance against teams 9623T and 9447W whilst being allied with 9623W. **We won this match 182-72**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20sixth%20match.PNG">
 
 ### Q25 
-In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. **We won this match with 106-47**
+In the seventh match we played on the blue alliance against teams 88310V and 3859D whilst being allied with 3859E. **We won this match 106-47**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20seventh%20match.PNG">
 
 ### Q29 
-In the eighth match we played on the blue alliance against teams 9447W and 31055A whilst being allied with 31055B. **We won this match with 142-112**
+In the eighth match we played on the blue alliance against teams 9447W and 31055A whilst being allied with 31055B. **We won this match 142-112**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eighth%20match.PNG">
 
 ### Final Qualification Standings 
@@ -623,15 +635,15 @@ We finished 3rd in overall rankings with a final record of 6-2 in qualifying wit
 For alliance selections we were selected by team 9623W (WALL-E) who were ranked 2nd with 17 WPs, 48 APs, and 528 SPs and a final record of 7-1. We had good team chemistry and had worked well together during our qualifiers. 
 
 ### QF 3-1
-In the first elimination match, we played on the red alliance against teams 3859S and 71002A. We won this match with 127-28
+In the first elimination match, we played on the red alliance against teams 3859S and 71002A. **We won this match 127-28.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20ninth%20match.PNG">
 
 ### SF 2-1 
-In the second semi-finals match, we played on the red alliance against teams 88310W and 31055A. We won that match 124-69
+In the second semi-finals match, we played on the red alliance against teams 88310W and 31055A. **We won this match 124-69.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20tenth%20game.PNG">
 
 ### Final
-In the final, we played on the blue alliance against teams 9623S and 9447G. We lost the final 186-120
+In the final, we played on the blue alliance against teams 9623S and 9447G. **We lost the final 186-120.**
 <img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/wahs%20eleventh%20match.PNG">
 
 
@@ -690,7 +702,7 @@ In the sixth match, we played on the red alliance and went against 9880D and 115
 In the seventh match, we played on the blue alliance and went against 3796D and 3796H. **We won this match 140-119.**
 
 ### QF 4.1
-In the eighth match, we played on the blue alliance and went against 86400C and 86400T. **We won this match *102*-47.**
+In the eighth match, we played on the blue alliance and went against 86400C and 86400T. **We won this match 102-47.**
 
 ### SF 2.1
 In the ninth match,
