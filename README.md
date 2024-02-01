@@ -305,6 +305,9 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Elliott
 - [x] Rhett
 
+The goal we have for the launcher
+https://photos.app.goo.gl/PrKCGUadZan2i2su7 
+
 # 10/31/23
 
 ## **Attendance**
@@ -736,7 +739,17 @@ In the tenth match,
 ## **Goals for Today**
 - [ ] Connecting Pneumatic Tank - Cable Management
 - [ ] Test Pneumatics
-- [ ] Add Distance Senor under Triball Holder - Recognized how far 
+- [ ] Add Distance Sensor under Triball Holder - Recognized how far 
 
+# **2/1/24**
 
+## **Attendance##
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden
+- [x] Noly
 
+## **Goals for Today**
+- [ ] Fix Kicker
+
+Rhett was able to improve the functionality of the kicker. We are using a Distance Sensor to 
