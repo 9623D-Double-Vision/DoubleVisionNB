@@ -752,4 +752,17 @@ In the tenth match,
 ## **Goals for Today**
 - [ ] Fix Kicker
 
-Rhett was able to improve the functionality of the kicker. We are using a Distance Sensor to 
+Rhett was able to improve the functionality of the kicker. We are using a Distance Sensor to detect how close the triball is to the Triball Holder. We are coding the kicker to pull back and launch the triball when the triball is put onto the Triball Holder.
+
+We ran a stress test on the Distance Sensor due to it's placement. It is placed in a highly used area and has a high potential to break, especially during a match. We ran the robot for a while, launching like we would during a normal match, to ensure that it would last turing a tournament.
+
+# **2/2/24**
+
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden
+- [x] Noly
+
+## **Goals for Today**
+- [ ] 
