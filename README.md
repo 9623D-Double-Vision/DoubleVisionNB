@@ -765,4 +765,4 @@ We ran a stress test on the Distance Sensor due to it's placement. It is placed 
 - [x] Noly
 
 ## **Goals for Today**
-- [ ] 
+- [x] Worked on Skills
