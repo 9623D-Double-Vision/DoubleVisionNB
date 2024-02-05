@@ -299,6 +299,8 @@ Elliott modeled a 45-degree angled intake for the robot.
 - [x] Elliott
 - [x] Rhett
 
+https://photos.app.goo.gl/vrbBysBqLZeTgung7 
+
 # 10/26/23
 
 ## **Attendance**
@@ -766,3 +768,14 @@ We ran a stress test on the Distance Sensor due to it's placement. It is placed 
 
 ## **Goals for Today**
 - [x] Worked on Skills
+
+# **2/5/24**
+
+## **Attendance**
+- [x] Elliott
+- [x] Rhett
+- [x] Whilden
+- [x] Noly
+
+## **Goals for Today**
+- [ ] Work on Skills
