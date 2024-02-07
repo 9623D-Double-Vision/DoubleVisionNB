@@ -779,3 +779,33 @@ We ran a stress test on the Distance Sensor due to it's placement. It is placed 
 
 ## **Goals for Today**
 - [ ] Work on Skills
+- [ ] Add Monster Decoration Plate
+
+We added a plate on the back of the bot with the Monster logo. We also 
+
+
+# **2/6/24**
+
+## **Goals for Today**
+- [ ] Work on Auton
+- [ ] Fix Kicker
+
+Triball consistently hit it wherever we place it, not in a specific orientation
+
+Version 3 but more similar to version 3
+
+Debating getting rid of sensor. We matchload slower with it. Without it, we can shoot faster. 
+
+Going back to version 2 to see the max amount of rubber bands we can add to it before it is unable to pull back the force.
+
+Use 1 full strand of vex latex tubing tied and wrapped 3 times and 1 rubber band (#64), it was the first test we ran and it works as we would like
+
+Pack:
+Tools
+Fitting
+Gloves
+Rubber bands
+Zipties
+Inertial Sensor
+
+
