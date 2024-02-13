@@ -809,3 +809,18 @@ Zipties
 Inertial Sensor
 
 
+# 2/13/24
+
+Attendence
+
+
+Goals for Today
+- [ ] Fixing the Kicker
+- [ ] Finish Kicker
+- [ ] Test Distance Sensor
+
+Redesigns on inventor to make it custom fit to triball, made contactor into flex wheels because the flex wheels have a rebound that improves the shooting distance with less force.
+
+30a flex wheels have best grouping durameter
+
+
