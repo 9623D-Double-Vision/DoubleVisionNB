@@ -138,7 +138,9 @@ Elliott researched a way to transport and hold the triballs; he found a claw tha
 
 Elliott tried to figure out different positions and places to place the claw on the robot and allow it to adjust its height but still have it be stable; eventually, he decided to add it to the front of the robot using two support beams made up of 25x2x1 C channels attached on two more supports made up of 18x2x1 C channels. It was motorized via a gear mechanism with a gear ratio 1:7 using a 12T gear and 84T gear. 
 
-<img src="https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG" height="400" width="400">
+![unnamed](https://github.com/9623D-Double-Vision/DoubleVisionNB/blob/main/Assets/Image/IMG_8958%20(1).JPG) 
+
+
 
 # 5/4/23 - Drive Train Design
 
